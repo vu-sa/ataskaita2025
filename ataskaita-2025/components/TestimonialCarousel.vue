@@ -17,7 +17,6 @@ const props = defineProps<{
 }>()
 
 const emblaMainApi = ref<CarouselApi>()
-const emblaThumbnailApi = ref<CarouselApi>()
 const selectedIndex = ref(0)
 
 // Set up responsive breakpoints
@@ -54,9 +53,12 @@ const visibleThumbs = computed(() => {
   return 7 // Desktop: show 7
 })
 
-// Calculate responsive basis class for thumbnails
-const thumbBasisClass = computed(() => {
-  return `basis-1/${visibleThumbs.value}`
+// Calculate exact percentage width for thumbnails
+const thumbWidthPercentage = computed(() => {
+  // Calculate exact percentages with a small gap allowance
+  if (width.value < 640) return (100 / 3) - 1 + '%' // Mobile: ~32.33%
+  if (width.value < 768) return (100 / 5) - 0.5 + '%' // Small tablet: ~19.5%
+  return (100 / 7) - 0.3 + '%' // Desktop: ~14%
 })
 
 const onCarouselInit = (api: CarouselApi) => {
@@ -71,10 +73,36 @@ const onCarouselInit = (api: CarouselApi) => {
 
 
 function onSelect() {
-  if (!emblaMainApi.value || !emblaThumbnailApi.value)
+  if (!emblaMainApi.value)
     return
   selectedIndex.value = emblaMainApi.value.selectedScrollSnap()
-  emblaThumbnailApi.value.scrollTo(emblaMainApi.value.selectedScrollSnap())
+  
+  // Scroll thumbnails into view when needed
+  scrollThumbnailIntoView(selectedIndex.value)
+}
+
+// Helper function to scroll thumbnail into view
+function scrollThumbnailIntoView(index: number) {
+  // Find the thumbnail element and scroll it into view if needed
+  const thumbnailsContainer = document.querySelector('.overflow-x-auto')
+  const thumbnailElements = thumbnailsContainer?.querySelectorAll('.flex-shrink-0')
+  
+  if (thumbnailsContainer && thumbnailElements && thumbnailElements[index]) {
+    const thumbnail = thumbnailElements[index] as HTMLElement
+    
+    // Calculate scroll position to center the thumbnail
+    const containerWidth = thumbnailsContainer.clientWidth
+    const thumbnailOffsetLeft = thumbnail.offsetLeft
+    const thumbnailWidth = thumbnail.offsetWidth
+    
+    const scrollPosition = thumbnailOffsetLeft - (containerWidth / 2) + (thumbnailWidth / 2)
+    
+    // Scroll smoothly
+    thumbnailsContainer.scrollTo({
+      left: scrollPosition,
+      behavior: 'smooth'
+    })
+  }
 }
 
 function onThumbClick(index: number) {
@@ -127,17 +155,18 @@ watchOnce(emblaMainApi, (api) => {
       <CarouselNext class="hidden sm:flex absolute right-2 sm:right-4 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-800 border border-amber-500/30" />
     </Carousel>
 
-    <Carousel
-      class="relative w-full mt-4 sm:mt-6 md:mt-8 px-4 sm:px-8 md:px-12"
-      :opts="{ dragFree: true, containScroll: 'keepSnaps' as const, align: 'start' as const }"
-      @init-api="(val) => emblaThumbnailApi = val"
-    >
-      <CarouselContent class="flex ml-0">
-        <CarouselItem 
+    <!-- Use a simple grid layout for thumbnails instead of carousel -->
+    <div class="w-full mt-4 sm:mt-6 md:mt-8 px-4 sm:px-8 md:px-12 overflow-x-auto">
+      <div class="flex flex-nowrap">
+        <div 
           v-for="(testimonial, index) in props.testimonials" 
           :key="testimonial.name" 
-          class="pl-0 cursor-pointer transition-all duration-300"
-          :class="[thumbBasisClass]" 
+          class="cursor-pointer transition-all duration-300 flex-shrink-0"
+          :style="{
+            width: thumbWidthPercentage,
+            paddingRight: '4px',
+            paddingLeft: index === 0 ? '0' : '4px'
+          }"
           @click="onThumbClick(index)"
         >
           <div class="p-1">
@@ -149,8 +178,10 @@ watchOnce(emblaMainApi, (api) => {
               :class="[selectedIndex === index ? 'border-2 border-amber-500 shadow-md' : 'opacity-70 hover:opacity-100']"
             >
           </div>
-        </CarouselItem>
-      </CarouselContent>
-    </Carousel>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
+
+
