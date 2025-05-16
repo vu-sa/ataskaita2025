@@ -29,7 +29,6 @@
     "Foto nėra",
     "Nėra foto",
     "haroldas.zaluda.jpg",
-    "vismantas.daujotas.jpg",
     "elze-audejyte.jpg",
   )
 
