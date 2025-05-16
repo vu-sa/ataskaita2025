@@ -142,11 +142,19 @@
   return content
 }
 
-// Set up the document with our modern design system
+// Store the actual build date (today's date)
+#let build_date = datetime.today()
+
+// Add build date to keywords to preserve in PDF metadata
+#let extended_keywords = ("VU SA", "studentų atstovybė", "metinė ataskaita", "Vilniaus universitetas", "studentų atstovavimas", "2024-2025", "build_date:" + build_date.display())
+
 #show: project.with(
-  title: "VU SA metinė ataskaita 2024-2025",
-  authors: ("Vilniaus universiteto Studentų atstovybė"),
-  date: "2025 m. gegužė",
+  title: "Vilniaus universiteto Studentų atstovybės (VU SA) 2024-2025 m. veiklos ataskaita",
+  authors: ("Vilniaus universiteto Studentų atstovybė (VU SA)", "VU SA"),
+  date: datetime(year: 2025, month: 5, day: 16),  // Publication date shown in document
+  description: "Vilniaus universiteto Studentų atstovybės (VU SA) metinė veiklos ataskaita 2024-2025 metams, pristatanti organizacijos pasiekimus, įgyvendintus projektus ir studentų atstovavimo rezultatus. Dokumentas sugeneruotas: " + build_date.display("%Y-%m-%d"),
+  keywords: extended_keywords,
+  language: "lt",
   primaryColor: primaryColor,
   accentColor: accentColor,
   secondaryAccent: brandRed,

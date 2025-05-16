@@ -4,14 +4,24 @@
 #let project(
   title: "",
   authors: (),
-  date: none,
+  date: auto,
+  description: none,
+  keywords: (),
+  language: "lt",
   primaryColor: rgb("#1A1A1A"),  // Default to dark black
   accentColor: rgb("#fbad13"),   // Default to amber-gold
   secondaryAccent: rgb("#b5333e"), // Default to red
   body
 ) = {
   // Set the document's basic properties
-  set document(author: authors, title: title)
+  set document(
+    author: authors, 
+    title: title, 
+    date: date,
+    description: description, 
+    keywords: keywords
+  )
+  set text(lang: language)
   set page(
     margin: (left: 25mm, right: 25mm, top: 22mm, bottom: 22mm), // Slightly adjusted margins
     numbering: "1" // Remove default numbering as we'll add custom one
