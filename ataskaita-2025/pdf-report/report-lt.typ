@@ -1170,7 +1170,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
     #image(
-      "src/public/img/logos/Aurora Basket.png",
+      "src/public/img/logos/Aurora Basket.jpg",
     )
   ],
   right: [
@@ -1213,6 +1213,20 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #team-section(
   photo: "../src/public/img/dariniai/CB.jpg",
   members: get-persons-by-column(dariniai_data, "Darinys", "Centrinis biuras"),
+  columns: 2,
+  primaryColor: primaryColor,
+  accentColor: accentColor,
+  showTitle: true,
+  showPadalinys: false
+)
+
+#pagebreak()
+
+== Studentų iniciatyvų centras
+
+#team-section(
+  photo: "../src/public/img/dariniai/SIC.jpg",
+  members: get-persons-by-column(dariniai_data, "Darinys", "VU SA Studentų iniciatyvų centras"),
   columns: 2,
   primaryColor: primaryColor,
   accentColor: accentColor,
@@ -1365,6 +1379,20 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   accentColor: accentColor,
   showPadalinys: true,
   showTitle: false
+)
+
+#pagebreak()
+
+== Iniciatyvų vadovai (-ės)
+
+#team-section(
+  photo: "../src/public/img/dariniai/PKP vadovai.jpg",
+  members: get-persons-by-column(padaliniai_data, "Padalinys", "Iniciatyvos"),
+  columns: 2,
+  primaryColor: primaryColor,
+  accentColor: accentColor,
+  showTitle: true,
+  showPadalinys: false
 )
 
 #pagebreak()

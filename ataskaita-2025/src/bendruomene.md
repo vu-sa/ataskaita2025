@@ -39,6 +39,8 @@ const administratoriai = getPersonsByRole("Administrator", "padaliniai");
 
 const cb = getPersonsByDepartment("Centrinis biuras", "dariniai");
 
+const sic = getPersonsByDepartment("VU SA Studentų iniciatyvų centras", "dariniai");
+
 const pirmininkai = getPersonsByRole(["Pirminink", "l.e.p. Pirminink"], "padaliniai");
 const prezidente = getPersonsByRole("Prezidentė", "dariniai");
 prezidente[0].padalinys = undefined;
@@ -52,6 +54,8 @@ const taryba = [
 const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas", "dariniai");
 
 const dag = getPersonsByColumn("Darinys", "VU SA Duomenų apsaugos grupė", "dariniai");
+
+const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai");
 
 </script>
 
@@ -98,6 +102,8 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 ## Studentų iniciatyvų centras
 
 ![SIC](<./public/img/dariniai/SIC.jpg>)
+
+<TeamAvatarLayout :members="sic" :showTitle="true" :showPadalinys="false" />
 
 ## Atstovų koordinatoriai (-ės)
 
@@ -161,6 +167,8 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 <TeamAvatarLayout :members="administratoriai" :showTitle="false" :showPadalinys="true" />
 
-## PKP vadovai
+## Iniciatyvų vadovai (-ės)
 
-...
+![Iniciatyvų vadovai](<./public/img/dariniai/PKP vadovai.jpg>)
+
+<TeamAvatarLayout :members="iniciatyvos" :showTitle="true" :showPadalinys="false" />

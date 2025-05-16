@@ -846,7 +846,7 @@ simbolinė klubo darbų paroda.
 
 ## „Aurora" basket
 
-![Aurora](<../public/img/logos/Aurora Basket.png>){width=250}
+![Aurora](<../public/img/logos/Aurora Basket.jpg>){width=250}
 
 <!-- SECTION:aurora:START -->
 
