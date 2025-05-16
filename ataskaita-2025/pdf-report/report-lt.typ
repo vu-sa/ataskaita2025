@@ -269,11 +269,21 @@
 
 #image(
   "src/public/img/congrats/skvc.jpg",
-  width: 50%,
+  width: 70%,
 )
 
 #cmarker.render(read_file_section("./src/sveikinimai.md", section_id: "skvc"), h1-level: 2)
 
+#pagebreak()
+
+// ARQUS
+
+#image(
+  "src/public/img/congrats/arqus.png",
+  width: 50%,
+)
+
+#cmarker.render(read_file_section("./src/sveikinimai.md", section_id: "arqus"), h1-level: 2)
 
 // START OF MAIN CONTENT
 

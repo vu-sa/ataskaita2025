@@ -115,10 +115,15 @@ Studijų kokybės vertinimo centre su džiaugsmu žvelgiame į dar vienerius pra
 SKVC direktoriaus atstovė
 <!-- SECTION:skvc:END -->
 
+
 ## Arqus studentų (-čių) taryba
 
-![ARQUS](./public/img/congrats/tarpt.png)
+![ARQUS](./public/img/congrats/arqus.png)
+
+<!-- SECTION:arqus:START -->
 
 Dėkojame Vilniaus universiteto Studentų atstovybei, kurios nuoseklus dalyvavimas ir atsidavimas Arqus Studentų atstovybės veikloje padėjo surengti produktyvias diskusijas su įvairiais Arqus aljanso universitetų akademinio ir neakademinio personalo atstovais (-ėmis) tokiomis temomis kaip Europos laipsnis ir aljanso struktūra.  
 
 Dėkojame, kad dalijatės savo idėjomis ir požiūriais, kaip jūs ir jūsų studentų (-čių) atstovybė kuriate sisteminius pokyčius savo universitete ir šalyje. 
+
+<!-- SECTION:arqus:END -->
