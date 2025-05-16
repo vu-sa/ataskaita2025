@@ -894,7 +894,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
   #image(
-    "src/public/img/logos/Debatų Klubas.png",
+    "src/public/img/logos/Debatu Klubas.png",
   )
 ],
   right: [
@@ -908,7 +908,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
   #image(
-    "src/public/img/logos/Be Etikečių.png",
+    "src/public/img/logos/Be Etikeciu.png",
   )
 ],
   right: [
@@ -924,7 +924,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
   #image(
-    "src/public/img/logos/Studentų Investicinis Fondas.jpg",
+    "src/public/img/logos/Studentu Investicinis Fondas.jpg",
   )
 ],
   right: [
@@ -956,7 +956,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
   #image(
-    "src/public/img/logos/Teisės Klinika.png",
+    "src/public/img/logos/Teises Klinika.png",
   )
 ],
   right: [
@@ -988,7 +988,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
   #image(
-    "src/public/img/logos/Jaunųjų Žurnalistų Draugija.jpg",
+    "src/public/img/logos/Jaunuju Zurnalistu Draugija.jpg",
   )
 ],
   right: [
@@ -1048,7 +1048,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
     #image(
-      "src/public/img/logos/Rašytojų Klubas.jpg",
+      "src/public/img/logos/Rasytoju Klubas.jpg",
     )
   ],
   right: [
@@ -1138,7 +1138,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
     #image(
-      "src/public/img/logos/Nėrimo Klubas.jpg",
+      "src/public/img/logos/Nerimo Klubas.jpg",
     )
   ],
   right: [
@@ -1165,7 +1165,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
     #image(
-      "src/public/img/logos/Astronomų Klubas.jpg",
+      "src/public/img/logos/Astronomu Klubas.jpg",
     )
   ],
   right: [
