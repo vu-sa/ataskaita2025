@@ -5,7 +5,7 @@
 2024 m. kuratorių ir mentorių programoje aktyviai veikė **242 kuratoriai
 (-ės)**, iš kurių **200** dalyvavo centriniuose kuratorių mokymuose.
 Siekiant efektyvesnio pasirengimo, mokymai buvo organizuoti **trimis
-srautais**, iš jų vienas -- **anglų kalba**, taip įtraukiant
+srautais**, iš jų vienas – **anglų kalba**, taip įtraukiant
 tarptautinius studentus (-es) į kuratorių programą. Tai žymi svarbų
 žingsnį link programos tarptautinimo ir platesnės studentų (-čių) grupės
 pasiekimo.
@@ -63,10 +63,10 @@ organizuotos mokymosi grupelės. Į jas užsiregistravo **43 studentai
 (-ės)-mokytojai (-os)** bei **70 studentų (-čių).**
 
 Įvyko **5 mokymosi grupelės** (Gyvybės mokslų centre - organinės
-chemijos temomis, Filosofijos fakultete -- pažinimo psichologijos tema,
-Šiaulių akademijoje -- Programming languages and Object-oriented
-programming tema, Medicinos fakultete -- Žmogaus fiziologija,
-Tarptautinių santykių ir politikos mokslų institute -- Šiuolaikinės
+chemijos temomis, Filosofijos fakultete – pažinimo psichologijos tema,
+Šiaulių akademijoje – Programming languages and Object-oriented
+programming tema, Medicinos fakultete – Žmogaus fiziologija,
+Tarptautinių santykių ir politikos mokslų institute – Šiuolaikinės
 politikos teorija)
 
 Ši iniciatyva orientuota į studentų (-čių) akademinės sėkmės stiprinimą

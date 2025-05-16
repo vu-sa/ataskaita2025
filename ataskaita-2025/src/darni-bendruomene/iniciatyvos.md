@@ -21,7 +21,7 @@ const sppk2 = [
 
 <!-- SECTION:jek1:START -->
 
-*Vadovas -- Rokas Pietaris.*
+*Vadovas – Rokas Pietaris.*
 
 Per 2024/2025 mokslo metus **Jaunųjų Energetikų
 klubas** suorganizavo 4 ekskursijas (į Solitek gamyklą, Kruonio
@@ -55,7 +55,7 @@ planetos klimato kaitos problematikai.
 
 *Vadovas – Loranas Vaitkus*
 
-**VU radijas START FM** -- VU SA ir Vilniaus universiteto radijo stotis,
+**VU radijas START FM** – VU SA ir Vilniaus universiteto radijo stotis,
 veiklą pradėjusi 2005-ais metais ir girdima 94,2 MHz FM dažniu Vilniuje
 bei internetu visame pasaulyje. 
 <!-- SECTION:startfm1:END -->
@@ -73,11 +73,11 @@ miesto ir Lietuvos universitetų bei mokyklų akademinės bendruomenės
 nariams, jaunimui bei visiems muzikinį smalsumą turintiems šalies
 gyventojams. 
 
-Pagrindinės START FM vertybės -- kūrybiškumo ugdymas,
+Pagrindinės START FM vertybės – kūrybiškumo ugdymas,
 bendruomeniškumas ir alternatyvus požiūris į muziką bei meną.
 
 START FM transliuojamos laidos yra inicijuojamos ir įgyvendinamos
-bendruomenės narių -- Vilniaus universiteto ir kitų Lietuvos aukštųjų
+bendruomenės narių – Vilniaus universiteto ir kitų Lietuvos aukštųjų
 mokyklų studentų (-čių), absolventų (-čių), dėstytojų, ir atspindi
 akademinės bendruomenės bei jaunimo gyvenimo aktualijas. Stoties
 visuomeninę reikšmę sustiprina tai, kad radijas START FM visada
@@ -98,7 +98,7 @@ aktyvių pašnekovų (-ių).
 
 <!-- SECTION:kendo1:START -->
 
-*Vadovas -- Vytenis Almonaitis.*
+*Vadovas – Vytenis Almonaitis.*
 
 **Vilniaus universiteto Studentų atstovybės Kendo klubas (VUKK)** įkurtas
 2008, siekiant platinti žinias apie kendo (japoniškas fechtavimas)
@@ -129,10 +129,10 @@ kendo klubo ir Europos Kendo Federacijos sekretoriumi Pekka Nurminen.
 - (2024.11.16) Dalyvauta tarptautiniame kendo seminare Vroclave.
 - (2024.12.01) Vilniuje vyko XV-tasis Lietuvos kendo čempionatas. Klubo
 narių pasiekimai:
-  - Darija Litvinenko -- pirma vieta KYU individualiose kovose.
-  - Raminta Girdzijauskaitė -- antra vieta moterų individualiose kovose.
-  - Urtė Agata Mikalauskaitė -- trečia vieta moterų individualiose kovose.
-  - Marius Tomaševičius -- trečia vieta vyrų individualiose kovose.
+  - Darija Litvinenko – pirma vieta KYU individualiose kovose.
+  - Raminta Girdzijauskaitė – antra vieta moterų individualiose kovose.
+  - Urtė Agata Mikalauskaitė – trečia vieta moterų individualiose kovose.
+  - Marius Tomaševičius – trečia vieta vyrų individualiose kovose.
 - (2024.12.09) Ąžuolas Karpavičius, parvežė apdovanojimą iš jaunimo varžybų
 Lenkijoje! Wroclawe Ąžuolas dalyvavo tarptautiniame kendo turnyre Dragon
 Cup. Vaikinas komandinėje mišrioje trejetų rungtyje iškovojo trečią
@@ -168,9 +168,9 @@ Renginį vedė iaido meistrai:
 
 <!-- SECTION:kd1:START -->
 
-*Vadovė -- Agnė Dirmantaitė*
+*Vadovė – Agnė Dirmantaitė*
 
-**Vilniaus universiteto Karjeros dienos (VU KD)** -- didžiausias VU SA
+**Vilniaus universiteto Karjeros dienos (VU KD)** – didžiausias VU SA
 projektas, skaičiuojantis jau 20 veiklos metų. 
 
 Projekto tikslas --
@@ -208,9 +208,9 @@ daugiau kaip 500 jaunų žmonių šėlo nemokamame koncerte.
 
 <!-- SECTION:debatuklubas1:START -->
 
-*Vadovė -- Paulina Šalkauskaitė*
+*Vadovė – Paulina Šalkauskaitė*
 
-**VU Debatų klubas** -- 2004 m. įkurtas klubas, skirtas skirtingų fakultetų
+**VU Debatų klubas** – 2004 m. įkurtas klubas, skirtas skirtingų fakultetų
 studentų (-čių) bendravimo skatinimui, suteikiantis erdvę kritinio
 mąstymo, argumentavimo, anglų kalbos ir viešojo kalbėjimo įgūdžių
 lavinimui bei atstovaujantis Vilniaus universitetui debatų turnyruose.
@@ -226,15 +226,15 @@ lavinimui bei atstovaujantis Vilniaus universitetui debatų turnyruose.
 
 <!-- SECTION:beetikeciu1:START -->
 
-*Vadovė -- Enrika Gurevičiūtė*
+*Vadovė – Enrika Gurevičiūtė*
 
-**„Be etikečių"** -- nuo 2010 m. VU SA vykdoma programa, aktyviai veikianti
+**„Be etikečių"** – nuo 2010 m. VU SA vykdoma programa, aktyviai veikianti
 socialinės atskirties mažinimo ir žmogaus teisių srityse. 
 
-Programos tikslas -- paneigti visuomenėje nusistovėjusius stereotipus, skatinti
+Programos tikslas – paneigti visuomenėje nusistovėjusius stereotipus, skatinti
 visapusę socialiai pažeidžiamų grupių integraciją bei kurti pagarbų
 tarpusavio santykį Vilniaus universiteto bendruomenėje. Pagrindinės
-vertybės -- lygybė, atvirumas ir pagarba kiekvieno žmogaus
+vertybės – lygybė, atvirumas ir pagarba kiekvieno žmogaus
 individualumui.
 
 <!-- SECTION:beetikeciu1:END -->
@@ -255,7 +255,7 @@ dėmesys buvo skirtas diskusijoms bei dirbtuvėms paminėtomis temomis.
 
 <!-- SECTION:sif1:START -->
 
-*Vadovas -- Elijas Bačiauskas*
+*Vadovas – Elijas Bačiauskas*
 
 **Vilniaus universiteto Studentų investicinis fondas (VU SIF)** savo veikla
 stengiasi prisidėti prie visuomenės finansinio raštingumo ugdymo, o savo
@@ -283,11 +283,11 @@ mokesčius ir kitas verslo praktikas, kurie pritraukdavo iki 100 dalyvių.
 karjeros festivaliuose, pirmakursių stovyklose ir kituose renginiuose
 advokatuojant už idėjas, kad investavimas yra prieinamas kiekvienam
 (-ai).
-- Tęsiamas bendrandarbiavimas su ilgalaikiais partneriais -- žurnalui
+- Tęsiamas bendrandarbiavimas su ilgalaikiais partneriais – žurnalui
 „Investuok" rašyti straipsnius apie Europos akcijų rinką, su Lietuvos
 banku bei Verslo mokykla organizuoti Investavimo savaitės renginiai.
-- Užmegztos ir naujas partnerystės -- pradėta bendradarbiauti su
-kolegomis iš užsienio -- Lenkijos „HOSSA" ir Estijos „TalTech
+- Užmegztos ir naujas partnerystės – pradėta bendradarbiauti su
+kolegomis iš užsienio – Lenkijos „HOSSA" ir Estijos „TalTech
 Tudengifond" studentų (-čių) fondais, kurie VU SIF išskyrė kaip regiono
 lyderius. Su jų pagalba 2025 metais Vilniuje įvyks tarptautinė
 investavimo konferencija. Taip pat organizuoti renginiai su EVAF
@@ -325,9 +325,9 @@ Nuorodos:
 
 <!-- SECTION:esn1:START -->
 
-**ESN Vilnius University** -- VU SA programa, skatinanti studentų (-čių) mobilumą bei padedanti užsienio
+**ESN Vilnius University** – VU SA programa, skatinanti studentų (-čių) mobilumą bei padedanti užsienio
 studentams (-ėms) sėkmingai integruotis į VU bendruomenę. Pagrindinis
-tikslas -- padėti atvykusiems (-ioms) mainų studentams (-ėms)
+tikslas – padėti atvykusiems (-ioms) mainų studentams (-ėms)
 prisitaikyti prie naujos aplinkos, supažindinti juos su Lietuvos kultūra
 ir tradicijomis, atsakyti į iškilusius klausimus bei skatinti vietinių
 studentų (-čių) tarptautiškumą. 
@@ -339,7 +339,7 @@ studentų (-čių) tarptautiškumą.
 pasižymėjo aktyvia veikla tiek vietiniu, tiek tarptautiniu mastu.
 Surengta daugiau nei 115 renginių, skirtų visai Vilniaus universiteto
 bendruomenei. Šie įtraukiantys renginiai ne tik skatino giliau pažinti
-lietuvišką kultūrą -- jos papročius, kalbą, virtuvę ir šventes -- bet ir
+lietuvišką kultūrą – jos papročius, kalbą, virtuvę ir šventes – bet ir
 prisidėjo prie tarpkultūrinio dialogo skatinimo. Jie turėjo reikšmingą
 socialinį poveikį vietos bendruomenei, skatindami atvirumą, empatiją bei
 solidarumą tarp skirtingų kultūrų atstovų. Šios iniciatyvos paskatino
@@ -349,19 +349,19 @@ tarptautinį sąmoningumą. Tai kūrė tvirtus, ilgalaikius ryšius tarp
 studentų (-čių) iš įvairių pasaulio šalių ir stiprino Vilniaus
 universiteto, kaip atviros, daugiakultūrės bendruomenės, įvaizdį.
 Didelio dėmesio sulaukė ir „ESNbuddy" programa, kurios dėka mainų
-studentai (-ės) galėjo susipažinti su mentoriais (-ėmis) -- savanoriais
+studentai (-ės) galėjo susipažinti su mentoriais (-ėmis) – savanoriais
 (-ėmis), padėjusiais (-omis) susiorientuoti naujoje aplinkoje,
 atsakiusiais (-ioms) į visus rūpimus klausimus ir neretai tapusiais
 (-iomis) gerais (-omis) draugais (-ėmis). Taip pat sėkmingai
 įgyvendintas ES projektas „Equal Voices: Gender Camp and School Action",
 kuris tarptautiniu lygiu pelnė pirmąją vietą ESN Awards apdovanojimuose
 socialinio poveikio kategorijoje. Šiuo projektu siekta suburti vietinius
-(-es) ir užsienio studentus (-es) bendram tikslui -- skatinti lyčių
+(-es) ir užsienio studentus (-es) bendram tikslui – skatinti lyčių
 lygybės suvokimą Lietuvos mokyklose, skatinant bendradarbiavimą,
 dalijimąsi patirtimi ir ilgalaikių vertybių kūrimą. Taip pat atstovautas
 tiek universitetas, tiek organizacija tarptautiniu mastu, dalyvaujant
 tokiose svarbiose konferencijose kaip „Erasmus Generation Meeting Ancona
-2025" -- didžiausia studentų (-čių) organizuojama konferencija Europoje,
+2025" – didžiausia studentų (-čių) organizuojama konferencija Europoje,
 ir „Northern European Platform Tallinn 2024". Dėka nuoširdaus savanorių
 darbo bei jų atsidavimo, sulaukta daug šiltų atsiliepimų iš tarptautinių
 studentų (-čių), kurie (-ios) dėkojo už suteiktas galimybes susirasti
@@ -376,9 +376,9 @@ bendruomenės dalimi.
 
 <!-- SECTION:vutk1:START -->
 
-*Ataskaitiniu laikotarpiu projektą iki 2025-04-08 koordinavo Karina Sinkevičiūtė, o nuo 2025-04-09 -- Airina Mikulėnaitė*
+*Ataskaitiniu laikotarpiu projektą iki 2025-04-08 koordinavo Karina Sinkevičiūtė, o nuo 2025-04-09 – Airina Mikulėnaitė*
 
-**VšĮ Vilniaus universiteto Teisės klinika (VU TK)** -- nemokamos teisinės
+**VšĮ Vilniaus universiteto Teisės klinika (VU TK)** – nemokamos teisinės
 pagalbos projektas, kuris suteikia tikros profesinės praktikos galimybę
 vyresniųjų kursų teisės studentams (-ėms), o visuomenei siūlo nemokamą
 teisinę pagalbą ir skatina teisinį raštingumą. 
@@ -416,7 +416,7 @@ reguliariai teikė teisinius komentarus populiariausiems portalams.
 
 <!-- SECTION:thecoins1:START -->
 
-*Vadovė -- Aistė Židonytė*
+*Vadovė – Aistė Židonytė*
 
 **„The COINS"**  -- viena didžiausių Europoje studentų (čių) iniciatyva
 organizuojamų tarptautinių konferencijų, skirtų gyvybės mokslams. 
@@ -432,7 +432,7 @@ matomumo akademinėje erdvėje.
 <!-- SECTION:thecoins1:END -->
 <!-- SECTION:thecoins2:START -->
 
-„The COINS 2025" -- jau 19-tą kartą vykusi konferencija, šiemet
+„The COINS 2025" – jau 19-tą kartą vykusi konferencija, šiemet
 pritraukusi beveik 1000 dalyvių. Mokslinius pranešimus skaitė pasaulinio
 lygio mokslininkai (-ės): 2024 m. Medicinos Nobelio premijos laureatas
 prof. Victor Ambros, Max Planck instituto infekcinės biologijos skyriaus
@@ -446,7 +446,7 @@ Lenkijoje. Jų darbus vertino per 150 mokslininkų (-ių) iš Lietuvos,
 Latvijos, Lenkijos ir Jungtinės Karalystės. Lyginant su 2024 ir 2023
 metais, tarptautinių dalyvių skaičius išaugo beveik keturis kartus.
 Greta pagrindinės programos įgyvendintos ir specializuotos iniciatyvos,
-skirtos visuomenei bei moksleiviams (-ėms) -- jos prisidėjo prie
+skirtos visuomenei bei moksleiviams (-ėms) – jos prisidėjo prie
 platesnio gyvybės mokslų pažinimo ir sklaidos.
 
 <!-- SECTION:thecoins2:END -->
@@ -457,11 +457,11 @@ platesnio gyvybės mokslų pažinimo ir sklaidos.
 
 <!-- SECTION:jzk1:START -->
 
-*Vadovė -- Goda Ponomariovaitė*
+*Vadovė – Goda Ponomariovaitė*
 
-**Vilniaus universiteto Jaunųjų žurnalistų draugija (VU JŽD)** -- tai 2021
+**Vilniaus universiteto Jaunųjų žurnalistų draugija (VU JŽD)** – tai 2021
 m. įkurta iniciatyva, vienijanti žurnalistika besidominčius (-ias)
-moksleivius (-es) ir studentus (-es). Draugijos tikslas -- burti aktyvią
+moksleivius (-es) ir studentus (-es). Draugijos tikslas – burti aktyvią
 ir demokratinius idealus puoselėjančių jaunų žmonių bendruomenę
 Lietuvoje.
 
@@ -475,8 +475,8 @@ publikavo apie 30 žurnalistinių kūrinių, kurie pasirodė portaluose
 
 Rugsėjį jau trečius metus iš eilės vyko Romo Sakadolskio tarptautinis
 žurnalistikos forumas, kurio metu buvo įteiktos Jaunųjų žurnalistų
-premijos -- penkiems autoriams už išskirtinius žurnalistinius darbus
-įvairiose raiškos kategorijose. Šie metai ypatingi -- darbus premijai
+premijos – penkiems autoriams už išskirtinius žurnalistinius darbus
+įvairiose raiškos kategorijose. Šie metai ypatingi – darbus premijai
 galėjo teikti ne tik jaunieji (-osios) žurnalistai (-ės), studentai
 (-ės), bet ir moksleiviai (-ės).
 
@@ -494,7 +494,7 @@ migracijos tinklo (EMN) atstovais (-ėmis), kuriame buvo aptariami
 pasauliniai migracijos procesai ir žurnalistikos svarba, atspindint šias
 temas.
 
-Artimiausiu metu prasidės Žurnalistų dienos (leŽuDi) -- tradicinis VU
+Artimiausiu metu prasidės Žurnalistų dienos (leŽuDi) – tradicinis VU
 JŽD renginys, organizuojamas Draugijos narių. Savaitę truksiančioje
 programoje numatyti įvairūs renginiai: protmūšis, diskusijos, filmų
 peržiūros, sporto varžybos ir šventinis uždarymo vakaras.
@@ -512,9 +512,9 @@ universiteto ribų.
 
 <!-- SECTION:hema1:START -->
 
-*Vadovė -- Gintarė Vaičekauskytė*
+*Vadovė – Gintarė Vaičekauskytė*
 
-Alber aus VU HEMA klubas -- istorinių Europos kovos menų klubas, kuriame
+Alber aus VU HEMA klubas – istorinių Europos kovos menų klubas, kuriame
 treniruojamasi ilgaisiais kalavijais.
 <!-- SECTION:hema1:END -->
 <!-- SECTION:hema2:START -->
@@ -525,7 +525,7 @@ dienose Kernavėje XXIII.
 Taip pat surengtas turnyras Valentino dienos proga su įdomiomis
 paskaitomis. Nariai (-ės) dalyvavo ne viename tarptautiniame turnyre
 skirtinguose Europos miestuose. Taip pat pristatyta vykdoma veikla
-įvairiuose populiariuose renginiuose -- Comic con, Lituanicon bei Winter
+įvairiuose populiariuose renginiuose – Comic con, Lituanicon bei Winter
 con. Šiuo metu planuojamas trečiasis oficialus turnyras birželio 14
 dieną, kuris bus taip pat atviras ir visuomenei. HEMA klubas džiaugiasi
 savo nariais (-ėmis), kurių tobulėjimą mato dėl didėjančio
@@ -539,7 +539,7 @@ dalyvaujant tarptautinėje Hemos turnyrų scenoje.
 
 <!-- SECTION:tat1:START -->
 
-*Vadovė -- Toma Vilkaitė*
+*Vadovė – Toma Vilkaitė*
 
 Tvarumo Ambasadorių tinklas (TAT) yra VU SA programa, siekianti šviesti
 Vilniaus Universiteto bendruomenę ir visuomenę apie tvarumą, jo principų
@@ -577,11 +577,11 @@ srityse ir temose.
 
 <!-- SECTION:smms1:START -->
 
-*Vadovas -- Laurynas Cicėnas*
+*Vadovas – Laurynas Cicėnas*
 
-„Studentai -- moksleiviams, moksleiviai -- studentams\" -- VU SA
+„Studentai – moksleiviams, moksleiviai – studentams\" – VU SA
 organizuojama 3 dienų trukmės stovykla, skirta vyresnių klasių
-moksleiviams (-ėms). Stovyklos tikslas -- padėti moksleiviams (-ėms)
+moksleiviams (-ėms). Stovyklos tikslas – padėti moksleiviams (-ėms)
 pasirinkti jiems (-oms) tinkamą studijų kelią, supažindinant su Vilniaus
 universitetu ir jo teikiamomis galimybėmis.
 
@@ -589,7 +589,7 @@ universitetu ir jo teikiamomis galimybėmis.
 <!-- SECTION:smms2:START -->
 
 Kovo 14-16 dienomis Vilniaus universitete vyko jau tapęs pavasario
-tradicija renginys - stovykla „Studentai -- moksleiviams, moksleiviai --
+tradicija renginys - stovykla „Studentai – moksleiviams, moksleiviai --
 studentams", pritraukusi apie 70 moksleivių iš skirtingų Lietuvos
 kampelių.
 
@@ -608,7 +608,7 @@ O įgyti žinių apie universitetą ir studentišką gyvenimą moksleiviams
 
 <!-- SECTION:rk1:START -->
 
-*Vadovas -- Rokas Bitinaitis*
+*Vadovas – Rokas Bitinaitis*
 
 Šiais mokslo metais po pertraukos Rašytojų klubas vėl susibūrė. Klubo
 nariai (-ės) skaitė įvairių autorių, tarp jų ir savo, kūrybą, žaidė
@@ -635,7 +635,7 @@ narius (-es).
 
 <!-- SECTION:uygl:START -->
 
-*Vadovė -- Anna Humenna*
+*Vadovė – Anna Humenna*
 
 2024–2025 mokslo metais Ukrainos jaunimo grupė Lietuvoje (UYGL) telkė bendruomenę, skatino pilietiškumą ir palaikė Ukrainą per įvairias iniciatyvas. Rugsėjį Vilniuje surengtas labdaros bėgimas „Run for Light“ sutraukė per 100 dalyvių ir padėjo surinkti daugiau kaip 1200 € paramos Ukrainos gynėjams.
  
@@ -651,7 +651,7 @@ Lapkritį UYGL kartu su VU SA TSPMI surinko ir supakavo daugiau kaip 70 
 
 <!-- SECTION:foto1:START -->
 
-VU Fotoklubas -- Vilniaus universiteto fotografus (-es) vienijantis klubas --
+VU Fotoklubas – Vilniaus universiteto fotografus (-es) vienijantis klubas --
 bendruomenė, kurią jungia aistra fotografijai ir noras šiuo menu
 dalintis su kitais (-omis). Kiekvieną iššūkį klubas priima kaip galimybę
 augti, tobulėti ir vėl kurti stiprią, aktyvią Vilniaus universiteto
@@ -667,7 +667,7 @@ skatinti kūrybiškumą bei gebėjimą įžvelgti grožį supančioje aplinkoje.
 Šie susibūrimai tampa puikia proga ne tik mokytis, bet ir megzti ryšius
 tarp bendraminčių.
 
-Fotoklubo tikslas -- suburti tvirtą, veiklią ir matomą fotografų (-ių)
+Fotoklubo tikslas – suburti tvirtą, veiklią ir matomą fotografų (-ių)
 bendruomenę, kurios darbai galėtų džiuginti ne tik socialinių tinklų
 sekėjus, bet ir plačiau paplisti Vilniaus universiteto erdvėse --
 parodose, renginiuose ar kitose viešose iniciatyvose.
@@ -680,7 +680,7 @@ parodose, renginiuose ar kitose viešose iniciatyvose.
 
 <!-- SECTION:kauliukas1:START -->
 
-*Vadovas -- Robert Berlin*
+*Vadovas – Robert Berlin*
 
 Draugija organizuoja įvairius renginius (žaidimų vakarus, memų
 konkursus, D&D (požemius ir drakonus)) kiekvieną savaitę, kurių tikslas
@@ -704,9 +704,9 @@ jie susirenka pagal savo grafiką).
 
 <!-- SECTION:arti1:START -->
 
-*Vadovė -- Austėja Bačiulytė*
+*Vadovė – Austėja Bačiulytė*
 
-Artì -- tai dailės ir rankdarbių klubas, susikūręs 2024 metų pavasarį.
+Artì – tai dailės ir rankdarbių klubas, susikūręs 2024 metų pavasarį.
 Per šiuos metus kūrėme erdvę, kurioje universiteto bendruomenės nariai
 (-ės) galėtų laisvai reikštis kūrybiškai, mokytis naujų dailės ir
 rankdarbių technikų.
@@ -719,7 +719,7 @@ renginyje apie Meno terapiją, VU SA CHGF renginyje, VU SA KF
 suorganizuotame Advento vakare. Be bendradarbiavimo su VU SA padaliniais
 ir kitomis studentiškomis iniciatyvomis, beveik kiekvieną savaitę vedėme
 užsiėmimus su savo klubo nariais (-ėmis), kurių metu mokėmės įvairių
-dailės bei rankdarbių technikų -- piešimo su tušu, siuvinėjimo, molio
+dailės bei rankdarbių technikų – piešimo su tušu, siuvinėjimo, molio
 lipdymo ir kt. Orams atšilus, kartu su nariais (-ėmis) įvyko tapymo prie
 sakurų veikla.
 
@@ -731,7 +731,7 @@ sakurų veikla.
 
 <!-- SECTION:uasia1:START -->
 
-*Vadovė -- Vesta Šiaudvytytė*
+*Vadovė – Vesta Šiaudvytytė*
 
 Šie akademiniai metai „(Un)discovered Asia" klubui buvo veiklūs ir
 prasmingi. Tai studentų (-čių) mokslinė draugija (SMD), kuri siekia
@@ -741,7 +741,7 @@ suburti studentus (-es) ir bendraminčius (-tes), aktyviai besidominčius
 <!-- SECTION:uasia1:END -->
 <!-- SECTION:uasia2:START -->
 
-Pavasario semestre įvyko renginys -- Azijos kalbų kavinė „K-wave & Desi
+Pavasario semestre įvyko renginys – Azijos kalbų kavinė „K-wave & Desi
 Vibes: Learning Korean and Hindi together", kuri organizuota drauge su
 VU ESN. Renginys pritraukė daugybę susidomėjusiųjų hindi ir korėjiečių
 kalbomis.
@@ -758,11 +758,11 @@ transkultūrinių studijų instituto festivalį „ATSIbusk".
 
 <!-- SECTION:sppk1:START -->
 
-*Vadovas -- Gytis Oškelis*
+*Vadovas – Gytis Oškelis*
 
 Studentų pilietinio pasipriešinimo komiteto (SPPK) misija yra edukuoti
 studentus (-es) pilietinio pasipriešinimo temomis bei didinti jų valią
-gintis. SPPK -- jauna iniciatyva, oficialiai įkurta 2024 m. balandį.
+gintis. SPPK – jauna iniciatyva, oficialiai įkurta 2024 m. balandį.
 
 <!-- SECTION:sppk1:END -->
 <!-- SECTION:sppk2:START -->
@@ -799,10 +799,10 @@ atsparumą, sąmoningumą ir pilietinio pasipriešinimo įgūdžius.
 
 ## Konsultavimas 
 
-*Vadovė -- Kamilė Valvonytė*
+*Vadovė – Kamilė Valvonytė*
 
 VU SA konsultavimas prie VU SA PKP tinklo prisijungė 2025 metais. VU SA
-konsultavimo proceso tikslas -- padėti studentui (-ei) išspręsti bet
+konsultavimo proceso tikslas – padėti studentui (-ei) išspręsti bet
 kokias kylančias problemas arba nukreipti ten, kur galės padėti kiti
 (-os).
 
@@ -820,7 +820,7 @@ VU SA konsultavimo komanda aktyviai dalijosi žiniomis ir patirtimi
 vidiniuose VU SA fakultetų mokymuose bei fakultetų ir visuotiniuose
 susitikimuose.
 
-VU SA konsultavimas -- tai daugiau nei atsakymai į klausimus. Tai erdvė,
+VU SA konsultavimas – tai daugiau nei atsakymai į klausimus. Tai erdvė,
 kuri siekia kurti palaikančią, informuotą ir stiprią universiteto
 bendruomenę.
 
@@ -832,13 +832,13 @@ bendruomenę.
 
 <!-- SECTION:nerimas1:START -->
 
-*Vadovė -- Abija Tamoševičiūtė*
+*Vadovė – Abija Tamoševičiūtė*
 
-Nėrimo klubas -- tai VU studentų (-čių)
+Nėrimo klubas – tai VU studentų (-čių)
 organizuojamas kassavaitinis užsiėmimas, kurio metu mokomasi nėrimo
 amato. Klube veikia tiek VU bendruomenės nariai (-ės), tiek žmonės iš
 išorės. Čia skiriamas laikas atsipalaiduoti, užsiimti šiuo ypatingu
-amatu ir smagiai pabendrauti. Pagrindinis veiklos tikslas -- jaukios ir
+amatu ir smagiai pabendrauti. Pagrindinis veiklos tikslas – jaukios ir
 be streso atmosferos puoselėjimas, bendrystė. Vasars metu planuojama
 simbolinė klubo darbų paroda. 
 
@@ -850,9 +850,9 @@ simbolinė klubo darbų paroda.
 
 <!-- SECTION:aurora:START -->
 
-*Vadovas -- Žygimantas Mazėtis*
+*Vadovas – Žygimantas Mazėtis*
 
-„Aurora" Basket -- tai krepšinio mėgėjų klubas, jungiantis krepšiniui
+„Aurora" Basket – tai krepšinio mėgėjų klubas, jungiantis krepšiniui
 prijaučiančius (-ias) Vilniaus universiteto bendruomenės narius (-es).
 Klubas siekia sukurti aplinką, kurioje kiekvienas (-a), nepriklausomai
 nuo lygio ar sportinio pasiruošimo, galėtų gerai praleisti laiką
@@ -869,7 +869,7 @@ visos VU bendruomenės nariai (-ės).
 
 <!-- SECTION:astr:START -->
 
-*Vadovas -- Mykolas Radziukynas*
+*Vadovas – Mykolas Radziukynas*
 
 Veikla buvo pradėta šiais metais, pritraukta 20 narių ir dar
 daugiau susidomėjusių. Ateinančiais metais planuojama organizuoti

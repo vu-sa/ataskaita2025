@@ -70,7 +70,7 @@ plačiau](https://vustudentuatstovybe.sharepoint.com/sites/vieningai/Bendrai%20n
 ## Atviras VU SA Parlamento posėdis
 
 Tradiciškai, šis posėdis buvo skirtas susipažinimui su kandidatu į VU
-Rektorius -- prof. dr. Rimvydu Petrausku bei jo veiklos programa,
+Rektorius – prof. dr. Rimvydu Petrausku bei jo veiklos programa,
 užduoti staudentams (-ėms) rūpimus klausimus. Prisistatymo metu
 kandidatas pasirašė 11 punktų pasižadėjimą Vilniaus universiteto
 studentams (-ėms), kuriuos išrinkimo atveju žada įgyvendinti per
@@ -82,7 +82,7 @@ plačiau.](https://www.vusa.lt/lt/naujiena/kandidato-i-vu-rektorius-pristatymas?
 Nuostatuose nustatyta tvarka, kaip VU studentai (-ės) galės teikti
 paraiškas savo idėjų ir projektų finansavimui gauti, kokiais principais
 vadovaujamasi skirstant lėšas, kokie reikalavimai keliami iniciatyvoms
-ir kaip vyksta jų vertinimas bei atsiskaitymas. (Tikslas -- skatinti
+ir kaip vyksta jų vertinimas bei atsiskaitymas. (Tikslas – skatinti
 aktyvų studentų (-čių) dalyvavimą kuriant universiteto bendruomenei
 naudingas veiklas.) [Skaityti
 plačiau.](https://vustudentuatstovybe.sharepoint.com/sites/vieningai/Bendrai%20naudojami%20dokumentai/Forms/AllItems.aspx?id=%2Fsites%2Fvieningai%2FBendrai%20naudojami%20dokumentai%2FArchyvas%2F1%2E%20Visiems%20%28LT%20%26%20EN%29%20%E2%86%92%20For%20All%20%28LT%20%26%20EN%29%2F04%2E%20Nutarimai%20%E2%86%92%20Resolution%2FVU%20SA%20Parlamentas%20%E2%86%92%20VU%20SR%20Parliament%2FLT%2F2024%2D2025%2F2024%2D12%2D18%2F2024%2D12%2D18%20PPN%2D24%2D9%2D1%2C%20Parlamento%20nutarimas%20d%C4%97l%20Vilniaus%20universiteto%20Student%C5%B3%20atstovyb%C4%97s%20student%C5%B3%20iniciatyv%C5%B3%20finansavimo%20nuostat%C5%B3%20tvirtinimo%2Epdf&parent=%2Fsites%2Fvieningai%2FBendrai%20naudojami%20dokumentai%2FArchyvas%2F1%2E%20Visiems%20%28LT%20%26%20EN%29%20%E2%86%92%20For%20All%20%28LT%20%26%20EN%29%2F04%2E%20Nutarimai%20%E2%86%92%20Resolution%2FVU%20SA%20Parlamentas%20%E2%86%92%20VU%20SR%20Parliament%2FLT%2F2024%2D2025%2F2024%2D12%2D18&p=true&ga=1)

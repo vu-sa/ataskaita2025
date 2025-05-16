@@ -25,7 +25,7 @@
 - Padidintas finansavimas, skirtas VU SA mokymų organizavimui.
 - Tęsta „VU SA Reflektuoja" programa: organizacija skatinta reflektuoti
   ir savireflektuoti.
-- Tęsta mentorystės programa, skirta VU SA vadovams -- suformuotos 34
+- Tęsta mentorystės programa, skirta VU SA vadovams – suformuotos 34
   mentorių ir mentee poros.
 - Ataskaitiniu laikotarpiu ir toliau tęstas sistemingas darbas
   žmogiškųjų išteklių srityje:

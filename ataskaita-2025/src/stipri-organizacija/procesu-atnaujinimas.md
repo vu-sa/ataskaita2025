@@ -21,7 +21,7 @@ Pradėtas rengti tarptautinių studentų (-čių) integracijos planas,
 siekiant tikslingiau ir sistemingiau įtraukti šią studentų (-čių) grupę.
 Pastebėta, kad kuratoriams (-ėms), atliekantiems (-čioms) mentorių
 funkcijas, reikalingos papildomos kompetencijos, todėl buvo priimtas
-sprendimas išskirti šias dvi pareigybes -- kuratorius ir mentorius tampa
+sprendimas išskirti šias dvi pareigybes – kuratorius ir mentorius tampa
 skirtingomis pareigybėmis su skirtingais pasirengimo poreikiais.
 
 **Doktorantų (-čių) mentorystė:**\
@@ -73,7 +73,7 @@ atstovybės narių pareiga, numatyta Organizacijos įstatuose, o
 kompetencijų kėlimo nuoseklumas yra strateginis projektas, numatytas VU
 SA 2022--2025 m. strateginiame veiklos plane. Siekiant įgyvendinti
 Įstatuose numatytą pareigą ir Strateginiame plane numatytą prioritetą,
-2024-2025 m. parengtas VU SA narių kompetencijų žemėlapis -- koncepcija,
+2024-2025 m. parengtas VU SA narių kompetencijų žemėlapis – koncepcija,
 skirta užtikrinti:
 
 - strateginį požiūrį į VU SA narių kompetencijų kėlimą;
@@ -97,7 +97,7 @@ darinių, darbo ar saviraiškos grupių, realizuoti save ir tobulėti.
 centras](https://www.vusa.lt/lt/kontaktai/sic). Tai 5 žmonių komanda,
 kurios tikslas sudaryti sąlygas studentams (-ėms) kurti ir vystyti
 iniciatyvas visuomeninėje, mokslinėje, kultūrinėje, sportinėje ir
-laisvalaikio srityse. Mūsų misija -- suteikti studentams (-ėms) erdvę
+laisvalaikio srityse. Mūsų misija – suteikti studentams (-ėms) erdvę
 kurti, augti ir bendradarbiauti, remiant veikiančias iniciatyvas,
 skatinant naujų atsiradimą bei stiprinant aktyvią, kūrybišką ir
 moksliškai smalsią Vilniaus universiteto bendruomenę. Kuriamos naujos
@@ -129,7 +129,7 @@ daugiau sužinoti apie jų vykdomą veiklą.
 ![SIC pristatymas](../public/img/other/sic-1.jpg)
 
 Įvykusi mokslinių iniciatyvų mugė pažymėjo studentų (-čių) mokslinių
-iniciatyvų tinklo pradžią -- po mugės suorganizuoti 2 SMD vadovų (-ių)
+iniciatyvų tinklo pradžią – po mugės suorganizuoti 2 SMD vadovų (-ių)
 susitikimai, kurių metu aptarta tarpusavio bendradarbiavimo bei
 tarpdiscipliniškumo svarba, plėtojamos naujų projektų idėjos.
 
@@ -147,7 +147,7 @@ bendruomenėje.
 
 ![SIC pristatymas](../public/img/other/sic-2.jpg)
 
-Vasario 21 dieną SIC suorganizavo Hack'VU 25 -- studentiškų iniciatyvų
+Vasario 21 dieną SIC suorganizavo Hack'VU 25 – studentiškų iniciatyvų
 hakatoną. Hakatono metu, dalyviai (-ės) kartu su veiklos moderatoriumi
 Klaudijumi Meliu grynino savo iniciatyvų idėjas bei bandė išspręsti
 praktinius klausimus. Vėliau turėjo galimybę kreiptis pagalbos į
@@ -155,7 +155,7 @@ mentorius (-es), kurie (-ios) dalinosi savo patirtimi ir žiniomis bei
 padėjo kuriant idėjų įgyvendinimo planus. Renginyje kurtos krepšinio
 klubo, gyvosios lotynų kalbos klubo, astronomų klubo bei tarptautinių
 studentų (-čių) integracijos iniciatyvos iš skirtingų universiteto
-padalinių. Hakatono pagrindinį prizą -- 500 eurų finansavimą iniciatyvos
+padalinių. Hakatono pagrindinį prizą – 500 eurų finansavimą iniciatyvos
 veikloms įgyvendinti laimėjo VU astronomų klubas iš fizikos fakulteto.
 
 ![SIC pristatymas](../public/img/other/sic-3.jpg)

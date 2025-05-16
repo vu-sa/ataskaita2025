@@ -133,7 +133,7 @@ vaistinėse galės pasiimti ir studentai (-ės) pagal išrašytą el. receptą.
 
 ## Studijų kokybės vertinimo centras (SKVC)
 
-Studijų kokybės vertinimo centras (SKVC) -- skatina aukštųjų mokyklų
+Studijų kokybės vertinimo centras (SKVC) – skatina aukštųjų mokyklų
 veiklos kokybę per išorinį vertinimą, užsienyje įgytų kvalifikacijų,
 suteikiančių teisę į aukštąjį mokslą, bei aukštojo mokslo kvalifikacijų,
 vertinimą, teikia informaciją Centro veiklos klausimais bei vykdo kitas
@@ -161,7 +161,7 @@ susipažinti su susitikimo metu aptartais klausimais galite čia:
 Ataskaitiniu laikotarpiu aktyviai dalyvauta ir SKVC darbo grupėje dėl
 tarpkryptinių studijų krypties aprašo:
 
-Studentų (-čių) atstovė -- Klėja Merčaitytė.
+Studentų (-čių) atstovė – Klėja Merčaitytė.
 
 Suburta darbo grupė Švietimo, mokslo ir sporto ministrei bei
 suinteresuotoms šalims derinimui pateikė tarpkryptinių studijų krypties

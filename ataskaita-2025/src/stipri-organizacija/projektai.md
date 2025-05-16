@@ -3,7 +3,7 @@
 ## Valstybės studijų fondo finansuotas projektas „Tarptautiškumas - nuo idėjos iki realių pavyzdžių“
 
 Vilniaus universiteto Studentų atstovybė 2024 m. įgyvendino projektą
-„Tarptautiškumas -- nuo idėjos iki realių pavyzdžių", kurio tikslas buvo
+„Tarptautiškumas – nuo idėjos iki realių pavyzdžių", kurio tikslas buvo
 stiprinti tarptautinių studentų (-čių) integraciją į aukštojo mokslo
 sistemą, socialinį bei kultūrinį gyvenimą ir darbo rinką Lietuvoje.
 Projektas buvo įgyvendintas nuo 2024 m. kovo 1 d. iki gruodžio 1 d., į
@@ -33,7 +33,7 @@ bendravimui, bet ir aktualizuoti studentišką gyvenimą per šiuolaikinius
 kontekstus, įtraukiant dalyvius į turinio kūrimo ir refleksijos
 procesus.
 
-Pagrindinės veiklos -- teminė fotografijų paroda ir protmūšis -- buvo
+Pagrindinės veiklos – teminė fotografijų paroda ir protmūšis – buvo
 parinktos kaip priemonės, leidžiančios pasiekti tiek socialinius, tiek
 pažintinius projekto tikslus. Parodoje pristatyti vaizdiniai,
 atspindintys studentišką patirtį bendrabučiuose ir su ja susijusias
@@ -43,7 +43,7 @@ patikrinimui bei bendruomeniniam įsitraukimui, kuriame dalyvavo įvairios
 universiteto grupės.
 
 Vertinant rezultatus pastebima, kad dalis planuotų kiekybinių rodiklių
-buvo įgyvendinti iš dalies -- pavyzdžiui, nors parodą aplankė mažiau
+buvo įgyvendinti iš dalies – pavyzdžiui, nors parodą aplankė mažiau
 lankytojų nei tikėtasi, renginiai sulaukė aktyvaus dalyvių įsitraukimo,
 o socialiniuose tinkluose pasiekti sklaidos rodikliai atitiko prognozes.
 Taip pat pažymėtina, kad parodos organizavime dalyvavo studentai (-ės),

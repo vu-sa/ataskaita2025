@@ -18,21 +18,21 @@ Vieni didžiausių VU SA organizuojamų renginių yra padalinių dienos,
 tapusios svarbia ir gražia tradicija, skatinančia viso padalinio
 bendruomeniškumą ir studentiškų tradicijų išsaugojimą. Šiais metais
 devynios padalinių dienos siūlė studentams (-ėms) įvairių renginių
-ciklus -- nuo turiningų diskusijų, sporto žaidynių iki linksmiausių
+ciklus – nuo turiningų diskusijų, sporto žaidynių iki linksmiausių
 šokių.
 
-- VU SA CHGF -- [ChiGiDi](https://www.facebook.com/ChiGiDienos)
-- VU SA EVAF -- [Merkurijaus dienos](https://www.facebook.com/merkurijausdienos)
-- VU SA FilF -- [Filologų naktys](https://www.facebook.com/Filologunaktys)
-- VU SA FSF -- [Fiesta personae](https://www.facebook.com/FiestaPersonae>) ir [ATSIbusk](https://www.facebook.com/vuatsibusk)
-- VU SA IF -- [IFDi](https://www.facebook.com/istorijosfakultetodienos/);
-- VU SA MIF -- [MIDI](https://www.facebook.com/midi.lt)
-- VU SA MF -- [MeDi](https://www.facebook.com/medikudienos/)
-- VU SA KnF -- [Kauno fakulteto dienos](https://www.facebook.com/profile.php?id=100091736751676)
+- VU SA CHGF – [ChiGiDi](https://www.facebook.com/ChiGiDienos)
+- VU SA EVAF – [Merkurijaus dienos](https://www.facebook.com/merkurijausdienos)
+- VU SA FilF – [Filologų naktys](https://www.facebook.com/Filologunaktys)
+- VU SA FSF – [Fiesta personae](https://www.facebook.com/FiestaPersonae>) ir [ATSIbusk](https://www.facebook.com/vuatsibusk)
+- VU SA IF – [IFDi](https://www.facebook.com/istorijosfakultetodienos/);
+- VU SA MIF – [MIDI](https://www.facebook.com/midi.lt)
+- VU SA MF – [MeDi](https://www.facebook.com/medikudienos/)
+- VU SA KnF – [Kauno fakulteto dienos](https://www.facebook.com/profile.php?id=100091736751676)
 - VU SA KF - [Informacijos dienos](https://www.facebook.com/Informacijos.Dienos?locale=lt_LT);
-- VU SA TF -- [TeDi](https://www.facebook.com/TeisininkuDienos)
-- VU SA TSPMI -- [PoDi](https://www.facebook.com/politologudienos)
-- VU SA VM -- [VeDi](https://www.facebook.com/VersloDienos)
+- VU SA TF – [TeDi](https://www.facebook.com/TeisininkuDienos)
+- VU SA TSPMI – [PoDi](https://www.facebook.com/politologudienos)
+- VU SA VM – [VeDi](https://www.facebook.com/VersloDienos)
 
 # Kiti padalinių renginiai
 

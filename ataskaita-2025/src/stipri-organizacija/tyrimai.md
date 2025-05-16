@@ -17,17 +17,17 @@ užsienio) studentų (-čių) integracijos į Universitetą sėkmingumas.
 1. Per pastaruosius trejus metus studentų (-čių) įsitraukimas į
 integracijos renginius augo, ypač tarp bakalauro studentų (-čių), kurių
 tvarkaraščiai labiau atlaisvinti renginių lankomumui. Tuo tarpu
-magistrantai (-ės) dalyvauja rečiau -- tai lemia didesnis užimtumas ir
+magistrantai (-ės) dalyvauja rečiau – tai lemia didesnis užimtumas ir
 mažesnis renginių pritaikymas jų poreikiams. Nors „Renovatio Studiorum"
 išlieka populiariausias renginys, matosi ir padalinio renginių lankymo
 augimas, kitų centrų veiklas riboja informacijos trūkumas ir logistinės
 kliūtys.
 2. Studentai (-ės) dažniausiai susiduria su mokymosi sunkumais, kuriuos
 sieja su laiko planavimu, organizuotumu ir informacijos įsiminimu. Kita
-dažna problema -- paini universitetinė struktūra ir nesuprantamos
+dažna problema – paini universitetinė struktūra ir nesuprantamos
 taisyklės. Dauguma šias problemas sprendžia savarankiškai arba
-pasikliauja kursiokų (-ių) pagalba, o oficiali pagalba -- nors ir
-vertinama -- dažnai lieka nepasiekiama dėl ribotos komunikacijos.
+pasikliauja kursiokų (-ių) pagalba, o oficiali pagalba – nors ir
+vertinama – dažnai lieka nepasiekiama dėl ribotos komunikacijos.
 3. Nors studentai (-ės) vertina savo kursų atmosferą ir jaučiasi
 mikro-bendruomenių dalimi, bendras ryšys su universiteto bendruomene
 tebėra silpnas. Informacijos apie studijų valdymą, laisvalaikį ir
@@ -56,7 +56,7 @@ d.
 
 2. **Technologijų poveikis.** Dirbtinio intelekto (DI) įrankių, tokių
   kaip ChatGPT, Copilot ar Quillbot, naudojimas tampa vis labiau
-  paplitęs -- net 55,9 % studentų (-čių) juos naudojo akademiniams
+  paplitęs – net 55,9 % studentų (-čių) juos naudojo akademiniams
   tikslams, o 14,54 % tai darė nuolat (11 ir daugiau kartų).
 
 3. **Neaiškios DI naudojimo taisyklės.** Net 24,44 % studentų (-čių)
@@ -131,7 +131,7 @@ sugeneruotas CO₂ emisijas.
 
 2. Automobiliai išliko dažniausiai naudojama transporto priemone, sukėlus
   7,46 t CO₂. Alternatyvos, kaip traukiniai, pasižymėjo gerokai mažesne
-  tarša -- 68 kartus mažiau CO₂ vienam kilometrui.
+  tarša – 68 kartus mažiau CO₂ vienam kilometrui.
 
 3. Didžiausią atliekų dalį sudarė maisto ir plastiko atliekos,
   atitinkamai sukėlusios 571 kg ir 1 421 kg CO₂.
