@@ -204,7 +204,7 @@ daugiau kaip 500 jaunų žmonių šėlo nemokamame koncerte.
 
 ## VU Debatų klubas (VU KD)
 
-![VU KD](<../public/img/logos/Debatų Klubas.png>){width=250}
+![VU KD](<../public/img/logos/Debatu Klubas.png>){width=250}
 
 <!-- SECTION:debatuklubas1:START -->
 
@@ -222,7 +222,7 @@ lavinimui bei atstovaujantis Vilniaus universitetui debatų turnyruose.
 
 ## Be etikečių
 
-![VU KD](<../public/img/logos/Be Etikečių.png>){width=250}
+![VU KD](<../public/img/logos/Be Etikeciu.png>){width=250}
 
 <!-- SECTION:beetikeciu1:START -->
 
@@ -453,7 +453,7 @@ platesnio gyvybės mokslų pažinimo ir sklaidos.
 
 ## Jaunųjų žurnalistų draugija
 
-![Jaunųjų žurnalistų draugija](<../public/img/logos/Jaunųjų Žurnalistų Draugija.jpg>){width=250}
+![Jaunųjų žurnalistų draugija](<../public/img/logos/Jaunuju Zurnalistu Draugija.jpg>){width=250}
 
 <!-- SECTION:jzk1:START -->
 
