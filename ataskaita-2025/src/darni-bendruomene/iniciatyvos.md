@@ -251,7 +251,7 @@ dėmesys buvo skirtas diskusijoms bei dirbtuvėms paminėtomis temomis.
 
 ## VU Studentų Investicinis fondas (VU SIF)
 
-![VU SIF](<../public/img/logos/Studentų Investicinis Fondas.jpg>){width=250}
+![VU SIF](<../public/img/logos/Studentu Investicinis Fondas.jpg>){width=250}
 
 <!-- SECTION:sif1:START -->
 
@@ -372,7 +372,7 @@ bendruomenės dalimi.
 
 ## VU Teisės klinika
 
-![VU TK](<../public/img/logos/Teisės Klinika.png>){width=250}
+![VU TK](<../public/img/logos/Teises Klinika.png>){width=250}
 
 <!-- SECTION:vutk1:START -->
 
@@ -535,7 +535,7 @@ dalyvaujant tarptautinėje Hemos turnyrų scenoje.
 
 ## Tvarumo ambasadorių tinklas
 
-![Tvarumo ambasadorių tinklas](<../public/img/logos/Tvarumo Ambasadorių Tinklas.svg>){width=250}
+![Tvarumo ambasadorių tinklas](<../public/img/logos/Tvarumo Ambasadoriu Tinklas.svg>){width=250}
 
 <!-- SECTION:tat1:START -->
 
@@ -604,7 +604,7 @@ O įgyti žinių apie universitetą ir studentišką gyvenimą moksleiviams
 
 ## Rašytojų klubas
 
-![Rašytojų klubas](<../public/img/logos/Rašytojų Klubas.jpg>){width=250}
+![Rašytojų klubas](<../public/img/logos/Rasytoju Klubas.jpg>){width=250}
 
 <!-- SECTION:rk1:START -->
 
@@ -828,7 +828,7 @@ bendruomenę.
 
 ## Nėrimo klubas
 
-![Nėrimo klubas](<../public/img/logos/Nėrimo Klubas.jpg>){width=250}
+![Nėrimo klubas](<../public/img/logos/Nerimo Klubas.jpg>){width=250}
 
 <!-- SECTION:nerimas1:START -->
 
@@ -865,7 +865,7 @@ visos VU bendruomenės nariai (-ės).
 
 ## Astronomų klubas
 
-![Astronomų klubas](<../public/img/logos/Astronomų Klubas.jpg>){width=250}
+![Astronomų klubas](<../public/img/logos/Astronomu Klubas.jpg>){width=250}
 
 <!-- SECTION:astr:START -->
 
