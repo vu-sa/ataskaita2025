@@ -49,6 +49,14 @@ jobs:
           typst --version
       - name: Install Ghostscript
         run: sudo apt-get update && sudo apt-get install -y ghostscript
+      - name: Install Atkinson Hyperlegible font
+        run: |
+          mkdir -p ~/.fonts
+          curl -L -o ~/.fonts/Atkinson-Hyperlegible-Regular.ttf "https://github.com/google/fonts/raw/main/ofl/atkinsonhyperlegible/AtkinsonHyperlegible-Regular.ttf"
+          curl -L -o ~/.fonts/Atkinson-Hyperlegible-Bold.ttf "https://github.com/google/fonts/raw/main/ofl/atkinsonhyperlegible/AtkinsonHyperlegible-Bold.ttf"
+          curl -L -o ~/.fonts/Atkinson-Hyperlegible-Italic.ttf "https://github.com/google/fonts/raw/main/ofl/atkinsonhyperlegible/AtkinsonHyperlegible-Italic.ttf"
+          curl -L -o ~/.fonts/Atkinson-Hyperlegible-BoldItalic.ttf "https://github.com/google/fonts/raw/main/ofl/atkinsonhyperlegible/AtkinsonHyperlegible-BoldItalic.ttf"
+          fc-cache -f -v
       - name: Install dependencies
         run: npm ci # or pnpm install / yarn install / bun install
       - name: Build website and PDF
