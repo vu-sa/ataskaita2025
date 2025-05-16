@@ -1018,7 +1018,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 #two-columns(
   left: [
     #image(
-      "src/public/img/logos/Tvarumo Ambasadorių Tinklas.svg",
+      "src/public/img/logos/Tvarumo Ambasadoriu Tinklas.svg",
     )
   ],
   right: [
