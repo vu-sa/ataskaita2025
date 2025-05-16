@@ -1,0 +1,56 @@
+{
+  "lt": [
+    {
+      "img": "/img/congrats/smsm.png",
+      "name": "Raminta Popovienė",
+      "position": "Švietimo, mokslo ir sporto ministrė",
+      "anchor": "#svietimo-mokslo-ir-sporto-ministerija",
+      "quotePreview": "Ypač vertinu Jūsų gebėjimą telkti studentų balsus, išgryninti aktualiausius poreikius ir aktyviai įsitraukti į dialogą, kuris virsta realiais pokyčiais. Tai – atsakomybės, brandos ir lyderystės ženklas.",
+      "objectPosition": "45% 30%"
+    },
+    {
+      "img": "/img/congrats/smk.jpeg",
+      "name": "Vaida Aleknavičienė",
+      "position": "LR Seimo Švietimo ir mokslo komiteto pirmininkė",
+      "anchor": "#vilniaus-universiteto-taryba",
+      "quotePreview": "Ypač vertinu tai, kad Studentų atstovybė neapsiriboja tik formaliu atstovavimu – jūs nuosekliai rūpinatės studijų kokybe, ginate studentų teises, stiprinate bendruomenę, kuriate prasmingas iniciatyvas ir puoselėjate akademines vertybes. Jūsų dėka skleidžiasi tarpdalykiškumo, įtraukties, atsakomybės ir pilietiškumo idėjos."
+    },
+    {
+      "img": "/img/congrats/jurgilas-taryba.jpg",
+      "name": "dr. Marius Jurgilas",
+      "position": "VU Tarybos pirmininkas",
+      "anchor": "#vilniaus-universiteto-taryba",
+      "quotePreview": "Jūsų gebėjimas konstruktyviai atstovauti studentų interesams visais lygmenimis - nuo studijų kokybės iki aukštojo mokslo politikos - yra svarbi Universiteto bendruomenės stiprybės dalis."
+    },
+    {
+      "img": "/img/congrats/biblioteka-kriv.jpg",
+      "name": "Irena Krivienė",
+      "position": "VU Bibliotekos direktorė",
+      "anchor": "#vilniaus-universiteto-biblioteka",
+      "quotePreview": "Jūsų veržlumas ir aktyvus įsitraukimas, kritiškas mąstymas ir geranoriškas palaikymas – tai neįkainojamas indėlis, kuris kasdien padeda mums augti, tobulėti ir kurti aplinką, kurioje gera mokytis ir būti.",
+      "objectPosition": "50% 20%"
+    },
+    {
+      "img": "/img/congrats/aekpk.jpg",
+      "name": "dr. Reda Cimmperman",
+      "position": "Akademinės etikos ir procedūrų kontolierė",
+      "anchor": "#akademines-etikos-ir-proceduru-kontroliere",
+      "quotePreview": "Esame dėkingi už prasmingą partnerystę ir džiaugiamės tęsdami bendras veiklas, kurios prisideda prie dar stipresnio studentų balso akademinėje etikoje.",
+      "objectPosition": "60% 40%"
+    },
+    {
+      "img": "/img/congrats/skvc.jpg",
+      "name": "Zinaida Manžuch",
+      "position": "SKVC direktoriaus atstovė",
+      "anchor": "#studiju-kokybes-vertinimo-centras",
+      "quotePreview": "Nuoširdžiai vertiname jūsų atsidavimą, naujas idėjas ir aktyvų įsitraukimą kuriant studentų poreikius atliepiančią aukštojo mokslo sistemą. Jūsų balsas yra svarbus – ir jis daro pokytį."
+    },
+    {
+      "img": "/img/congrats/tarpt.png",
+      "name": "Arqus studentų (-čių) taryba",
+      "position": "Arqus studentų (-čių) taryba",
+      "anchor": "#arqus-studentu-ciu-taryba",
+      "quotePreview": "Dėkojame, kad dalijatės savo idėjomis ir požiūriais, kaip jūs ir jūsų studentų (-čių) atstovybė kuriate sisteminius pokyčius savo universitete ir šalyje."
+    }
+  ]
+}

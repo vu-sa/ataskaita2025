@@ -1,0 +1,79 @@
+{
+  "lt": [
+    {
+      "link": "/img/dariniai/CB.jpg",
+      "title": "Centrinis biuras",
+      "href": "#centrinis-biuras"
+    },
+    {
+      "link": "/img/dariniai/Taryba.jpg",
+      "title": "VU SA Taryba",
+      "href": "/vu-sa/taryba"
+    },
+    {
+      "link": "/img/dariniai/Parlamentas.jpg",
+      "title": "VU SA Parlamentas",
+      "href": "/vu-sa/parlamentas"
+    },
+    {
+      "link": "/img/dariniai/SIC.jpg",
+      "title": "Studentų iniciatyvų centras",
+      "href": "/vu-sa/sic"
+    },
+    {
+      "link": "/img/dariniai/Atstovai.jpg",
+      "title": "Atstovų koordinatoriai (-ės)",
+      "href": "#atstovu-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Akad.jpg",
+      "title": "Akademinio proceso reikalų koordinatoriai (-ės)",
+      "href": "#akademinio-proceso-reikalu-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Soc.jpg",
+      "title": "Socialinio proceso reikalų koordinatoriai (-ės)",
+      "href": "#socialinio-proceso-reikalu-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Kom.jpg",
+      "title": "Komunikacijos koordinatoriai (-ės)",
+      "href": "#komunikacijos-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Mark.jpg",
+      "title": "Marketingo koordinatoriai (-ės)",
+      "href": "#marketingo-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Org.jpg",
+      "title": "Organizacinės srities koordinatoriai (-ės)",
+      "href": "#organizacines-srities-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/HR.jpg",
+      "title": "Žmogiškųjų išteklių koordinatoriai (-ės)",
+      "href": "#zmogiskuju-istekliu-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Integr.jpg",
+      "title": "Integracijos proceso koordinatoriai (-ės)",
+      "href": "#integracijos-proceso-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/ISAC.jpg",
+      "title": "Užsieniečių studentų koordinatoriai (-ės)",
+      "href": "#uzsienieciu-studentu-koordinatoriai-es"
+    },
+    {
+      "link": "/img/dariniai/Admin.jpg",
+      "title": "Administratoriai (-ės)",
+      "href": "#administratoriai-es"
+    },
+    {
+      "link": "/img/dariniai/PKP bendra.jpg",
+      "title": "Programos, klubai ir projektai",
+      "href": "#programos-klubai-ir-projektai"
+    }
+  ]
+}

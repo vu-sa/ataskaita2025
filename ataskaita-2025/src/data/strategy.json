@@ -1,0 +1,44 @@
+{
+  "lt": {
+    "vision": "Atvira aplinka savarankiškam studentų tobulėjimui vieningoje Vilniaus universiteto bendruomenėje.",
+    "mission": "Efektyviai atstovaujant Vilniaus universiteto studentams bei puoselėjant universitetinę kultūrą kurti palankiausias sąlygas studentų saviraiškai.",
+    "values": [
+      {
+        "title": "Atvirumas"
+      },
+      {
+        "title": "Atsakomybė"
+      },
+      {
+        "title": "Veiklos kokybė"
+      },
+      {
+        "title": "Vieningumas"
+      },
+      {
+        "title": "Tobulėjimas"
+      }
+    ]
+  },
+  "en": {
+    "vision": "An open environment for independent student development within a united Vilnius University community.",
+    "mission": "To create the most favorable conditions for student self-expression by effectively representing Vilnius University students and nurturing university culture.",
+    "values": [
+      {
+        "title": "Openness"
+      },
+      {
+        "title": "Responsibility"
+      },
+      {
+        "title": "Quality of work"
+      },
+      {
+        "title": "Unity"
+      },
+      {
+        "title": "Improvement"
+      }
+    ]
+  }
+}

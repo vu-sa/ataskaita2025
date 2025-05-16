@@ -1,0 +1,41 @@
+{
+  "initiatives": [
+    {
+      "title": "Zero Waste kampanija",
+      "description": "Renginiuose ir universitetinėje aplinkoje siekiama mažinti vienkartinio plastiko naudojimą ir šiukšlių kiekį",
+      "impact": "70% sumažėjęs vienkartinio plastiko naudojimas renginiuose"
+    },
+    {
+      "title": "Dviračių infrastruktūros gerinimas",
+      "description": "Bendradarbiaujant su universitetu, pagerintos dviračių stovėjimo ir saugojimo sąlygos",
+      "impact": "25% padidėjęs studentų, atvykstančių dviračiais, skaičius"
+    },
+    {
+      "title": "Tvaraus maisto iniciatyva",
+      "description": "Maitinimo įstaigose universitete didinamas tvarių ir vietinių produktų naudojimas",
+      "impact": "40% mažesnis CO₂ pėdsakas universiteto valgyklose"
+    }
+  ],
+  "quote": {
+    "text": "Darnus vystymasis – tai ne tik aplinkosauga, bet ir socialinė atsakomybė bei ekonominis tvarumas. Siekiame, kad būsimieji profesionalai ne tik įgytų žinių, bet ir formuotų tvaraus gyvenimo įpročius.",
+  },
+  "goals": [
+    {
+      "title": "CO₂ pėdsako mažinimas",
+      "target": 40,
+      "current": 32,
+      "unit": "%"
+    },
+    {
+      "title": "Žaliųjų iniciatyvų skaičius",
+      "target": 20,
+      "current": 15,
+      "unit": "iniciatyvų"
+    }
+  ],
+  "partners": [
+    "Lietuvos žaliųjų judėjimas",
+    "Europos studentų aplinkosaugos tinklas",
+    "Darnaus vystymosi ekspertų asociacija"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "1": [
+    {
+      "type": "success",
+      "content": "10 proc. pirmo kurso bakalauro ir vientisųjų studijų studentų (-čių) iš kiekvieno VU KAP yra išsikėlę studijų ar karjeros tikslus"
+    },
+    {
+      "type": "warning",
+      "content": "Bent 100 I pakopos bakalauro ir vientisųjų studijų studentų (-čių) pasinaudoja dalykinių konsultantų paslaugomis."
+    },
+    {
+      "type": "warning",
+      "content": "80 proc. VU KAP akademinių konsultantų konsultacijų vertinamos teigiamai."
+    }
+  ],
+  "2": [
+    {
+      "type": "warning",
+      "content": "Į trumpalaikes iniciatyvas įsitraukia 200 Vilniaus universiteto studentų (-čių)."
+    },
+    {
+      "type": "warning",
+      "content": "Į mokslinių veiklų tinklą įsitraukia bent 5 mokslinės iniciatyvos."
+    },
+    {
+      "type": "warning",
+      "content": " Vidutinis VU SA narių įsitraukimas į Organizacijos veiklas siekia ne mažiau nei 75 proc."
+    }
+  ],
+  "3": [
+    {
+      "type": "success",
+      "content": "Studentai (-ės) su negalia grįžtamojo ryšio anketoje studijų individualizavimo procesą vertina teigiamai."
+    },
+    {
+      "type": "warning",
+      "content": "Atnaujinta informacija apie studijų prieinamumą VU, VU KAP ir VU SA internetiniuose puslapiuose."
+    },
+    {
+      "type": "success",
+      "content": "Yra įgyvendinti bent 3 pokyčiai pagal žemėlapį dėl didesnio aplinkos pritaikymo studentams (-ėms) su negalia."
+    }
+  ],
+  "4": [
+    {
+      "type": "warning",
+      "content": "VU CHGF Taryboje patvirtintas į tyrimų metodologiją orientuoto modulio dalyko aprašas."
+    },
+    {
+      "type": "warning",
+      "content": "Įsteigiamos bent 2 vardinės stipendijos skiriamos už pasiekimus mokslinėje veikloje."
+    },
+    {
+      "type": "success",
+      "content": "Skiriamas papildomas balas stojant į Chemijos instituto magistro studijas."
+    }
+  ],
+  "5": [
+    {
+      "type": "not-planned",
+      "content": "Peržiūrėti visi privalomų dalykų pavasario semestre bakalauro studijų dalykų (modulių) aprašai ir pateiktos pastabos dėl kiekvieno netikslaus dalyko aprašymo."
+    },
+    {
+      "type": "not-planned",
+      "content": "Dėstytojai atnaujina bent 45 % netikslių privalomų dalykų bakalauro programose dalykų aprašus ir studentų atstovai turi prieigą prie jų."
+    },
+    {
+      "type": "not-planned",
+      "content": "VU IS ir evaf.vu.lt patalpinta 45 proc. atnaujintų pavasario semestro bakalauro studijų (modulių) dalykų aprašų."
+    }
+  ],
+  "6": [
+    {
+      "type": "warning",
+      "content": "Kiekvienas (-a) atstovas (-ė) yra parengęs ir pateikęs grįžtamojo ryšio apklausų analizę savo studijų programos komitete bei inicijuoja su jomis susijusių pokyčių įgyvendinimą."
+    },
+    {
+      "type": "warning",
+      "content": "Įvykdytos bent 2 iniciatyvos, skatinančios kokybišką grįžtamojo ryšio teikimą."
+    },
+    {
+      "type": "warning",
+      "content": "Kiekvienas (-a) atstovas (-ė) yra parengęs savo metų veiklos ataskaitą ir ją pristatęs studentams (-ėms)."
+    }
+  ],
+  "7": [
+    {
+      "type": "success",
+      "content": "Gairės pristatytos SPK, priimtos bent kaip rekomendacinio pobūdžio dokumentas bei pristatytos dėstytojams (-oms)."
+    },
+    {
+      "type": "success",
+      "content": "Studentai (-ės) turi galimybę susipažinti su GR gairėmis bent trijuose komunikacijos kanaluose."
+    },
+    {
+      "type": "warning",
+      "content": "Apklausose dalyvauja bent 400 studentų (-čių), 70 proc. iš jų, gautą GR vertina kaip išsamų."
+    }
+  ],
+  "8": [
+    {
+      "type": "success",
+      "content": "Išrinkti kontaktiniai asmenys yra apmokyti ir dalinasi studentams (-ėms) aktualia akademine ir socialine informacija."
+    },
+    {
+      "type": "success",
+      "content": "2024/25 metų eigoje pateikiama akademinė ir socialinė yra suprantama ir savalaikė, studentai (-ės) metų pabaigos grįžtamojo ryšio anketoje pateikia savo įžvalgas, į kurias yra atsižvelgiama ir yra pateikiami pasiūlymai ateinančių metų VU SA FF komandai ir VU FF administracijai."
+    }
+  ],
+  "9": [
+    {
+      "type": "warning",
+      "content": "Visų BA programų studentų (-čių) atstovai(-ės) bent kartą inicijuoja visų kursų studentų (-čių) nuomonės rinkimą."
+    },
+    {
+      "type": "success",
+      "content": "Yra suformuoti pasiūlymai bent 5 dalyko (modulio) studijų aprašų atnaujinimui kiekvienoje programoje."
+    },
+    {
+      "type": "warning",
+      "content": "Iš visų pateiktų pasiūlymų studijų dalykų (modulių) aprašų atnaujinimui yra atsižvelgta į 50 proc."
+    }
+  ],
+  "10": [
+    {
+      "type": "success",
+      "content": "Yra pasiektas susitarimas su VU IF administracija dėl VU SA IF pateikto komunikacijos plano vykdymo."
+    },
+    {
+      "type": "success",
+      "content": "Yra pasiektas susitarimas su VU IF administracija dėl komunikacijos kokybės gerinimo."
+    },
+    {
+      "type": "success",
+      "content": "VU IF administracija informaciją pateikia remdamasi VU SA IF pasiūlytu komunikacijos planu."
+    }
+  ],
+  "11": [
+    {
+      "type": "error",
+      "content": "Iki 2025 m. vasario 3 d. sukurta grįžtamojo ryšio sistema pasinaudojo 60 proc. privalomąją praktiką atlikusių I pakopos VU KnF studentų (-čių)."
+    },
+    {
+      "type": "warning",
+      "content": "Iki 2025 m. balandžio 15 d. VU KnF tinklapio praktikos polapyje. (https://www.knf.vu.lt/praktika) yra patalpinta informacija reikalinga privalomosios praktikos procesui."
+    },
+    {
+      "type": "not-planned",
+      "content": "Bent 3 privalomosios praktikos vadovai savo darbe pritaiko bei remiasi VU SA KnF parengtomis privalomosios praktikos tobulinimo gairėmis."
+    }
+  ],
+  "12": [
+    {
+      "type": "success",
+      "content": "VU KF pirmakursiams bent 2 kartus per mėnesį perduodama aktuali informacija apie fakultete vykstančius procesus ir veiklas."
+    },
+    {
+      "type": "success",
+      "content": "Bent 20 proc. VU KF pirmakursių užpildė integracijos proceso anketas."
+    },
+    {
+      "type": "warning",
+      "content": " Studijų programų komitetams pristatoma VU IS pirmakursių grįžtamojo ryšio analizė ir numatomi tolimesni SPK veiksmai."
+    }
+  ],
+  "13": [
+    {
+      "type": "warning",
+      "content": "VU SA tinklapyje sukurta sistema, kurioje įvestos atnaujintos privalomosios ir savanoriškos profesinės praktikos vietų pasirinkimo galimybės."
+    },
+    {
+      "type": "success",
+      "content": "Išlaikomas tęstinumas privalomosios profesinės ir savanoriškos praktikos grįžtamojo ryšio sistemos VU SA tinklapyje ir kituose soc. tinkluose."
+    },
+    {
+      "type": "success",
+      "content": "Kontaktiniai asmenys yra pasidalinę informacinėmis priemonėmis apie privalomąją profesinę ir savanorišką praktiką su savo kurso grupe."
+    },
+    {
+      "type": "success",
+      "content": "Sukurta nauja VU SA MF praktikų koordinatoriaus (-ės) pareigybė su pilnu srities pareigybiniu aprašu."
+    }
+  ],
+  "14": [
+    {
+      "type": "warning",
+      "content": "Pagal poreikį VU ŠA akademiniam personalui išsiųstos rekomendacijos, kaip atnaujinti jų dėstomą VMA kursą."
+    },
+    {
+      "type": "warning",
+      "content": "Pagal poreikį studijų programų komitetuose atnaujinti studijų dalykų (modulių) aprašai įtraukiant bent 1 studentų (-čių) atstovo (-ės) siūlymą."
+    },
+    {
+      "type": "not-planned",
+      "content": "Pagal parengtas VU SA ŠA apklausas (I sem. ir II sem) pasitenkinimas studijų tvarkaraščiais atitinkamose (pagal poreikį) studijų programose yra didesnis bent 10 proc."
+    }
+  ],
+  "15": [
+    {
+      "type": "warning",
+      "content": "Analizės metu apklausta bent 20% kiekvienos VU MIF studijų krypties studentų (-čių) ir išgryninti lūkesčiai mokslinėms veikloms."
+    },
+    {
+      "type": "error",
+      "content": "Pagal išanalizuotą poreikį įvykdytos bent 3 skirtingos formos iniciatyvos."
+    },
+    {
+      "type": "error",
+      "content": "Paruoštas 2025-2026 m. SMD veiklos ir plėtros planas."
+    }
+  ],
+  "16": [
+    {
+      "type": "success",
+      "content": "Atlikta analizė, peržiūrėti studijų dalykų (modulių) aprašai, susirinktas studentų (-čių) poreikis."
+    },
+    {
+      "type": "success",
+      "content": "Surinktos informacijos išvados pateiktos per SPK posėdžius ir SKVC vizitą, specialistai ir instituto atstovai supažindinami su problemos sprendimo siūlymais."
+    },
+    {
+      "type": "warning",
+      "content": "Atnaujinti dalykų aprašai įkelti į VU IS sistemą, rezultatai paviešinami studentams (-ėms)."
+    }
+  ],
+  "17": [
+    {
+      "type": "success",
+      "content": "Dokumentas pristatytas Dekanatui ir Studijų skyriui."
+    },
+    {
+      "type": "warning",
+      "content": "Atnaujintas ir patvirtintas dokumentas."
+    },
+    {
+      "type": "warning",
+      "content": "Sukurtas ir patvirtintas dokumentas."
+    },
+    {
+      "type": "warning",
+      "content": "Dėstytojai (-os), seminarų vedėjai (-os) ir studentai (-ės) yra supažindinti su patvirtinta vieninga studijų dalyko (modulio) vertinimo metodų sistema."
+    }
+  ],
+  "18": [
+    {
+      "type": "warning",
+      "content": "Sąrašas atnaujinamas atsižvelgiant į naujai surinktus duomenis, taip pat susisiekta su dėstytojais (-omis), kurie / kurios nesivadovauja studijų modulio apraše nurodytais vertinimo kriterijais, prašant juos atnaujinti."
+    },
+    {
+      "type": "warning",
+      "content": "SPK patvirtina bent 10 studijų dalykų (modulių) aprašų pakeitimų."
+    },
+    {
+      "type": "success",
+      "content": "Pasiūlymai pristatyti VU VM administracijai."
+    }
+  ]
+}

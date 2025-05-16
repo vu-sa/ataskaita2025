@@ -1,0 +1,307 @@
+@import 'tailwindcss';
+@import "tw-animate-css";
+
+/* these are necessary styles for vue flow */
+@import '@vue-flow/core/dist/style.css';
+
+/* this contains the default theme, these are optional styles */
+@import '@vue-flow/core/dist/theme-default.css';
+
+
+@source '../../**/*.{html,js,ts,vue,md}';
+
+@custom-variant dark (&:is(.dark *));
+
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+/**
+ * Colors
+ * -------------------------------------------------------------------------- */
+
+@theme {
+  --color-vusa-red: #bd2835;
+  --color-vusa-red-secondary: #8c1d27;
+  --color-vusa-red-tertiary: #bb2734;
+  --color-vusa-red-quaternary: #d74350;
+  --color-vusa-red-dark: #5d131a;
+  --color-vusa-yellow: #fbb01b;
+  --color-vusa-yellow-secondary: #de9503;
+  --color-vusa-yellow-tertiary: #fbb120;
+  --color-vusa-yellow-quaternary: #fcc557;
+  --color-vusa-yellow-dark: #a77002;
+}
+
+:root {
+  --vp-c-brand-1: #f3ac1d;
+  --vp-c-brand-2: #fbad13;
+  --vp-c-brand-3: #efb134;
+  --vp-c-brand-lightest: #dbaf56;
+  --vp-c-brand-dark: #b86e0d;
+  --vp-c-brand-dimm: rgba(255, 224, 100, 0.08);
+  --vp-c-brand-alternate: #b5333edd;
+}
+
+:root {
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
+
+  /* --vp-c-brand-1: var(--vp-c-indigo-1); */
+  /* --vp-c-brand-2: var(--vp-c-indigo-2); */
+  /* --vp-c-brand-3: var(--vp-c-indigo-3); */
+  /* --vp-c-brand-soft: var(--vp-c-indigo-soft); */
+
+  --vp-c-tip-1: var(--vp-c-brand-1);
+  --vp-c-tip-2: var(--vp-c-brand-2);
+  --vp-c-tip-3: var(--vp-c-brand-3);
+  --vp-c-tip-soft: var(--vp-c-brand-soft);
+
+  --vp-c-warning-1: var(--vp-c-yellow-1);
+  --vp-c-warning-2: var(--vp-c-yellow-2);
+  --vp-c-warning-3: var(--vp-c-yellow-3);
+  --vp-c-warning-soft: var(--vp-c-yellow-soft);
+
+  --vp-c-danger-1: var(--vp-c-red-1);
+  --vp-c-danger-2: var(--vp-c-red-2);
+  --vp-c-danger-3: var(--vp-c-red-3);
+  --vp-c-danger-soft: var(--vp-c-red-soft);
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-bg: var(--vp-c-brand-1);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient-spin {
+  0% {
+    background-position: 0% 50%;
+    transform: rotate(0deg);
+  }
+  33% {
+    background-position: 70% 30%;
+    transform: rotate(2deg);
+  }
+  66% {
+    background-position: 30% 70%;
+    transform: rotate(-2deg);
+  }
+  100% {
+    background-position: 0% 50%;
+    transform: rotate(0deg);
+  }
+}
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    var(--vp-c-brand-2) 30%,
+    var(--vp-c-brand-alternate) 70%
+  );
+
+  --vp-home-hero-image-background-image: radial-gradient(
+    circle at 30% 40%,
+    var(--vp-c-brand-3) 0%,
+    var(--vp-c-brand-1) 25%,
+    var(--vp-c-brand-alternate) 50%,
+    var(--vp-c-brand-dark) 75%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+/* Apply animations to hero elements */
+.VPHero .name,
+.VPHero .text {
+  background-size: 200% auto;
+  animation: gradient-shift 8s ease infinite;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.VPHero .image-bg {
+  background-size: 200% auto;
+  animation: gradient-spin 12s ease-in-out infinite;
+  background-position: 0% 50%;
+  translate: -145px -145px;
+}
+
+@media (max-width: 639px) {
+  .VPHero .image-bg {
+    translate: -95px -95px;
+  }
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+}
+
+.dark {
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-lightest);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+}
+
+/**
+ * Component: Algolia
+ * -------------------------------------------------------------------------- */
+
+.DocSearch {
+  --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+/* Other */
+
+@theme inline {
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--reka-accordion-content-height);
+    }
+  }
+
+  @keyframes accordion-up {
+    from {
+      height: var(--reka-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+}
+
+a.VPButton {
+ text-decoration: none;
+}
+
+.VPHome {
+  h2 {
+    font-size: 2.2rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    border-top: 0;
+    padding-top: 0.5rem;
+  }
+  h3 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    border-top: 0;
+    padding-top: 0.5rem;
+  }
+}
+
+.basic-flow.dark {
+  background: #2d3748;
+  color: #fffffb
+}
+
+.basic-flow.dark .vue-flow__node {
+  background: #4a5568;
+  color: #fffffb
+}
+
+.basic-flow.dark .vue-flow__node.selected {
+  background: #333;
+  box-shadow: 0 0 0 2px #2563eb
+}
+
+.basic-flow .vue-flow__controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+}
+
+.basic-flow.dark .vue-flow__controls {
+  border: 1px solid #EEEEEE
+}
+
+.basic-flow .vue-flow__controls .vue-flow__controls-button {
+  border: none;
+  @apply bg-zinc-200/60 rounded-md px-3 cursor-pointer;
+}
+
+.basic-flow .vue-flow__controls .vue-flow__controls-button svg {
+  height: 12px;
+  width: 12px
+}
+
+.basic-flow .vue-flow__controls .vue-flow__controls-button {
+  @apply border border-zinc-200 dark:border-zinc-500/30 bg-zinc-200/60 dark:bg-zinc-600 dark:fill-zinc-50 transition-shadow
+}
+
+.basic-flow .vue-flow__edge-text {
+  @apply fill-zinc-900 dark:fill-zinc-50
+}
+
+.basic-flow .vue-flow__node-multiple-handle {
+  @apply border border-zinc-300 dark:border-zinc-600;
+}
+
+.basic-flow .vue-flow__edge-textbg {
+  @apply fill-white dark:fill-[#1b1b1f]
+}
+
+/*Overwrite padding for node div, so button would use it*/
+
+.vue-flow__node-default, .vue-flow__node-input, .vue-flow__node-output {
+  padding: 0;
+}
