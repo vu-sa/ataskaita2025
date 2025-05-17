@@ -5,7 +5,7 @@ export default {
         nav: [
         //     { text: 'Congratulations', link: '/en/sveikinimai' },
             { text: 'Structure', link: '/en/vu-sa/parlamentas' },
-            { text: 'Goals', link: '/en/mvp/mvp' },
+            { text: 'Goals', link: '/en/mvp/strateginiai' },
             { text: 'Strategic directions', items: [
                 { text: 'High quality studies and its environment', link: '/en/kokybiskos-studijos/nacionalinis' },
                 { text: 'Strong organization', link: '/en/stipri-organizacija/projektai' },

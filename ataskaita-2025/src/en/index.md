@@ -120,26 +120,6 @@ const logoSrc = computed(() => {
   </div>
 </section>
 
-<!-- Interactive Timeline Section -->
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
-  <div class="max-w-6xl mx-auto">
-    <InteractiveTimeline 
-      title="VU SA 2024–2025 m. svarbiausios veiklos" 
-      :events="timelineEvents" 
-    />
-  </div>
-</section>
-
-<!-- Gallery Section -->
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
-  <div class="max-w-6xl mx-auto">
-    <ImageMosaic 
-      title="VU SR moments" 
-      :images="galleryImages.en" 
-    />
-  </div>
-</section>
-
 <!-- Enhanced Statistics Section with Icons -->
 <section class="lg:px-2 px-1.5 isolate my-12">
   <div class="max-w-6xl mx-auto">
@@ -157,6 +137,26 @@ const logoSrc = computed(() => {
         </EnhancedNumberStatistic>
       </template>
     </div>
+  </div>
+</section>
+
+<!-- Interactive Timeline Section -->
+<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+  <div class="max-w-6xl mx-auto">
+    <InteractiveTimeline 
+      title="VU SA 2024–2025 m. svarbiausios veiklos" 
+      :events="timelineEvents" 
+    />
+  </div>
+</section>
+
+<!-- Gallery Section -->
+<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+  <div class="max-w-6xl mx-auto">
+    <ImageMosaic 
+      title="VU SR moments" 
+      :images="galleryImages.en" 
+    />
   </div>
 </section>
 
