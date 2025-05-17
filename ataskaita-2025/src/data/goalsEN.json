@@ -1,0 +1,255 @@
+{
+  "1": [
+    {
+      "type": "success",
+      "content": "10 proc. pirmo kurso bakalauro ir vientisųjų studijų studentų (-čių) iš kiekvieno VU KAP yra išsikėlę studijų ar karjeros tikslus"
+    },
+    {
+      "type": "warning",
+      "content": "Bent 100 I pakopos bakalauro ir vientisųjų studijų studentų (-čių) pasinaudoja dalykinių konsultantų paslaugomis."
+    },
+    {
+      "type": "warning",
+      "content": "80 proc. VU KAP akademinių konsultantų konsultacijų vertinamos teigiamai."
+    }
+  ],
+  "2": [
+    {
+      "type": "warning",
+      "content": "200 Vilnius University students are involved in short-term initiatives. "
+    },
+    {
+      "type": "warning",
+      "content": "At least 5 scientific initiatives are involved in the network of scientific activities. "
+    },
+    {
+      "type": "warning",
+      "content": "The average involvement of VU SR members in the activities of the Organisation is at least 75%. "
+    }
+  ],
+  "3": [
+    {
+      "type": "success",
+      "content": "Students with disabilities rate the individualisation of their studies positively in the feedback form. "
+    },
+    {
+      "type": "warning",
+      "content": "Information on accessibility of studies updated on the VU, VU ACU and VU SR websites. "
+    },
+    {
+      "type": "success",
+      "content": "At least 3 changes according to the map are implemented to make the environment more accessible for students with disabilities. "
+    }
+  ],
+  "4": [
+    {
+      "type": "warning",
+      "content": "The VU FCG Council approves the research methodology course description. "
+    },
+    {
+      "type": "warning",
+      "content": "At least 2 named scholarships established to reward achievements in research. "
+    },
+    {
+      "type": "success",
+      "content": "Additional points are given to apply for a Master's degree studies at the Institute of Chemistry. "
+    }
+  ],
+  "5": [
+    {
+      "type": "not-planned",
+      "content": "Every BA mandatory SD for spring semester was reviewed and comments were provided on every inaccurate subject description. "
+    },
+    {
+      "type": "not-planned",
+      "content": "At least 45% of inaccurate mandatory BA SDs are updated by the lecturers and SRs have access to them. "
+    },
+    {
+      "type": "not-planned",
+      "content": "45% of updated BA subject descriptions of Spring semester are uploaded in VU IS and evaf.vu.lt. "
+    }
+  ],
+  "6": [
+    {
+      "type": "warning",
+      "content": "Each representative has prepared and presented an analysis of the feedback surveys to his/her curriculum committee and has initiated the implementation of changes related to them. "
+    },
+    {
+      "type": "warning",
+      "content": "At least 2 initiatives have been organised to promote how to provide quality feedback. "
+    },
+    {
+      "type": "warning",
+      "content": "Each representative has prepared a report on their activities for the year and presented it to the students. "
+    }
+  ],
+  "7": [
+    {
+      "type": "success",
+      "content": "Guidelines presented to the SPC are accepted at least as a guidance document and presented to lecturers. "
+    },
+    {
+      "type": "success",
+      "content": "Students have the opportunity to get acquainted with the feedback guidelines in at least three communication channels. "
+    },
+    {
+      "type": "warning",
+      "content": "At least 400 students participate in the surveys, 70% of whom rate the feedback received as detailed. "
+    }
+  ],
+  "8": [
+    {
+      "type": "success",
+      "content": "The selected contact persons are trained and they provide academic and social information to students. "
+    },
+    {
+      "type": "success",
+      "content": "The academic and social information provided during the academic year 2024/25 is clear and timely, students provide their feedback in the year-end feedback questionnaire, which is reflected and suggestions are made to the VU SR FF team and the VU FP administration for the following year. "
+    }
+  ],
+  "9": [
+    {
+      "type": "warning",
+      "content": "Student representatives from all undergraduate programmes initiate at least once a survey of students in all courses. "
+    },
+    {
+      "type": "success",
+      "content": "Proposals for updating at least 5 subject (module) descriptions in each programme have been developed. "
+    },
+    {
+      "type": "warning",
+      "content": "50% of all proposals for updating the descriptions of study subjects (modules) have been considered. "
+    }
+  ],
+  "10": [
+    {
+      "type": "success",
+      "content": "An agreement has been reached with the VU FH administration on the implementation of the communication plan submitted by VU SR FH. "
+    },
+    {
+      "type": "success",
+      "content": "An agreement has been reached with the VU FH administration to improve the quality of communication. "
+    },
+    {
+      "type": "success",
+      "content": "The VU FH administration provides information on the basis of the communication plan proposed by VU SR FH. "
+    }
+  ],
+  "11": [
+    {
+      "type": "error",
+      "content": "By the 3rd of February 2025, 60% of the undergraduate students who had completed their compulsory internship at VU KnF had used the feedback system. "
+    },
+    {
+      "type": "warning",
+      "content": "Until the 15th of April 2025, the information necessary for the compulsory internship process becomes available on the internship subpage of the VU KnF website (https://www.knf.vu.lt/praktika). "
+    },
+    {
+      "type": "not-planned",
+      "content": "At least 3 supervisors of compulsory practice apply and refer to the guidelines for the improvement of compulsory practice developed by VU SR KnF in their work. "
+    }
+  ],
+  "12": [
+    {
+      "type": "success",
+      "content": "Relevant information on the processes and activities of the Faculty is communicated to first year VU FC students at least 2. "
+    },
+    {
+      "type": "success",
+      "content": "At least 20% of VU FC first-year students have completed the integration process questionnaires. "
+    },
+    {
+      "type": "warning",
+      "content": "Analysis of the VU IS freshmen feedback is presented to the Study Programme Committees and further actions of the SPC are planned. "
+    }
+  ],
+  "13": [
+    {
+      "type": "warning",
+      "content": "VU SA website system with updated options for compulsory and voluntary professional practice placements. "
+    },
+    {
+      "type": "success",
+      "content": "Continuity of the mandatory professional and voluntary practice feedback system is maintained on the VU SA website and other social networks. "
+    },
+    {
+      "type": "success",
+      "content": "The contact persons have shared information tools on compulsory professional and voluntary internships with their course group. "
+    },
+    {
+      "type": "success",
+      "content": "New position of VU SR FM Internship Coordinator created with full position description. "
+    }
+  ],
+  "14": [
+    {
+      "type": "warning",
+      "content": "According to the need, recommendations have been sent to the academic staff of the VU ŠA on how to update the VMA courses they use for their teaching. "
+    },
+    {
+      "type": "warning",
+      "content": "Study subject (module) descriptions are updated in the study programme committees according to the needs of students, including at least 1 proposal from students' representatives. "
+    },
+    {
+      "type": "not-planned",
+      "content": "According to the VU SR ŠA surveys (1st semester and 2nd semester), the satisfaction with study timetables in the respective (according to need) study programmes is higher by at least 10%. "
+    }
+  ],
+  "15": [
+    {
+      "type": "warning",
+      "content": "At least 20% of students in each of the VU FMI fields of study were surveyed and expectations for research activities were identified. "
+    },
+    {
+      "type": "error",
+      "content": "At least 3 different forms of initiatives have been implemented according to the analysed needs. "
+    },
+    {
+      "type": "error",
+      "content": "SSS operational and development plan for the period 2025-2026 is prepared. "
+    }
+  ],
+  "16": [
+    {
+      "type": "success",
+      "content": "Analyses are carried out, study module descriptions are reviewed, and students' needs are known. "
+    },
+    {
+      "type": "success",
+      "content": "Collected data conclusions are presented in SPC meetings and SKVC visit, specialists and institute representatives are presented with the problem solutions. "
+    },
+    {
+      "type": "warning",
+      "content": "New study module descriptions are uploaded to the VU IS system, and students know the results. "
+    }
+  ],
+  "17": [
+    {
+      "type": "success",
+      "content": "Document presented to the Dean's Office and the Study Department. "
+    },
+    {
+      "type": "warning",
+      "content": "Document updated and approved." },
+    {
+      "type": "warning",
+      "content": "Document updated and approved." },
+    {
+      "type": "warning",
+      "content": "Lecturers, seminar leaders and students are familiar with the approved unified system of assessment methods for the study subject (module). "
+    }
+  ],
+  "18": [
+    {
+      "type": "warning",
+      "content": "The list is updated according to the new data collected and we got in touch with the lecturers who don't follow evaluation criterias in the study module description asking them to update them. "
+    },
+    {
+      "type": "warning",
+      "content": "SPC approves given changes to at least 10 study module descriptions. "
+    },
+    {
+      "type": "success",
+      "content": "Proposals presented to the VU BS administration." }
+  ]
+}

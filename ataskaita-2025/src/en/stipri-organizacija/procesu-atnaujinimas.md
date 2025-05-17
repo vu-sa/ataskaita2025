@@ -78,7 +78,7 @@ area planning. The latter types of planning have been described based on
 the current processes of the VU SR and with clear guidance on how each
 of these processes is carried out and how to prepare for it.
 
-## Kompetencijų žemėlapis / Map of competences
+## Map of competences
 
 Participation in training to provide and improve competencies necessary
 for the member\'s activity is a duty of Vilnius University Student
@@ -108,7 +108,7 @@ join VU SR units, programmes, clubs, projects, other initiatives,
 structures, work or self-expression groups to realise their
 self-fulfilment and development.
 
-## SIC atsiradimas / Emergence of SIC
+## Emergence of SIC
 
 The first year has been a busy and successful one. On 21 November, the
 SIC organised a student(s) science fair featuring presentations by the

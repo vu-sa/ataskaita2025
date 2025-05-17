@@ -126,4 +126,5 @@ Dėkojame Vilniaus universiteto Studentų atstovybei, kurios nuoseklus dalyvavim
 
 Dėkojame, kad dalijatės savo idėjomis ir požiūriais, kaip jūs ir jūsų studentų (-čių) atstovybė kuriate sisteminius pokyčius savo universitete ir šalyje. 
 
+**ARQUS studentų (-čių) taryba**
 <!-- SECTION:arqus:END -->

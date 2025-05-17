@@ -183,7 +183,7 @@ const logoSrc = computed(() => {
                   text="Become a member"
                 />
                 <VPButton 
-                  href="/VU_SA_Ataskaita_2024_2025.pdf" 
+                  href="/VU_SR_Report_2024_2025.pdf" 
                   text="Download PDF" 
                   theme="brand"
                 />

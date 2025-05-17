@@ -111,7 +111,7 @@ The study was carried out: from 18 November 2024 to 1 December 2024.
   benefits they gain from being part of the Students\' Union as
   competences, community and meaningful self-expression.
 
-## CO2 footprint study 
+## CO<sub>2</sub> footprint study 
 
 Purpose of the study: this report aims to assess the environmental
 impact of the activities of Vilnius University Students\' Representation

@@ -5,6 +5,7 @@
   primaryColor: rgb("#1A1A1A"),
   accentColor: rgb("#fbad13"),
   is-last: false,
+  english: false,
 ) = {
   // Get status text and color based on type
   let status = ""
@@ -13,28 +14,33 @@
   let status-text-color = black
   
   if type == "success" {
-    status = "įgyvendinta"
+    status = if english { "implemented" } else { "įgyvendinta" }
     dot-color = rgb("#52c41a")  // Green color for success
     status-text-color = rgb("#52c41a").darken(20%)
   } else if type == "warning" {
-    status = "įgyvendinama"
+    status = if english { "under implementation" } else { "įgyvendinama" }
     dot-color = rgb("#fbb01b")  // Amber color for warning/in progress
     status-text-color = rgb("#fbb01b").darken(10%)
   } else if type == "not-planned" {
-    status = "atsisakyta"
+    status = if english { "abandoned" } else { "atsisakyta" }
     dot-color = rgb("#d9d9d9")  // Gray for abandoned
     status-text-color = rgb("#777777")
   } else if type == "error" {
-    status = "neįgyvendinta"
+    status = if english { "not implemented" } else { "neįgyvendinta" }
     dot-color = rgb("#ff4d4f")  // Red for error/not implemented
     status-text-color = rgb("#ff4d4f").darken(10%)
   } else {
-    status = "bus vykdoma"
+    status = if english { "in progress" } else { "bus vykdoma" }
     dot-color = rgb("#d9d9d9")  // Gray for default
     status-text-color = rgb("#777777")
   }
   
-  let title = [#index uždavinys: #text(fill: status-text-color, weight: "medium")[#status]]
+  let title-prefix = if english { "Task " } else { " uždavinys: " }
+  let title = if english {
+    [Task #index: #text(fill: status-text-color, weight: "medium")[#status]]
+  } else {
+    [#index uždavinys: #text(fill: status-text-color, weight: "medium")[#status]]
+  }
   
   // Container to hold the timeline dot and line
   box(width: 100%, inset: 0pt, outset: 0pt)[
@@ -94,7 +100,8 @@
 #let goal-timeline(
   items: (),
   primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13")
+  accentColor: rgb("#fbad13"),
+  english: false
 ) = {
   // Timeline container with improved padding
   block(inset: (top: 8pt, bottom: 8pt), width: 100%)[
@@ -106,7 +113,8 @@
           type: item.at("type", default: "default"),
           primaryColor: primaryColor,
           accentColor: accentColor,
-          is-last: i == items.len() - 1
+          is-last: i == items.len() - 1,
+          english: english
         )
       }
     ]
@@ -115,9 +123,15 @@
 
 #let goal-results(
   content,
+  header: none,
   primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13")
+  accentColor: rgb("#fbad13"),
+  english: false
 ) = {
+  // Set default header based on language
+  let default-header = if english { "What was implemented?" } else { "Kas įgyvendinta?" }
+  let display-header = if header == none { default-header } else { header }
+  
   // A styled box for showing the goal results
   block(
     width: 100%,
@@ -126,7 +140,7 @@
     radius: 3pt,
     inset: (x: 1.2em, y: 1em),
   )[
-    #text(weight: "bold", size: 1.1em)[☑️ Kas įgyvendinta?]
+    #text(weight: "bold", size: 1.1em)[☑️ #display-header]
     
     #content
   ]

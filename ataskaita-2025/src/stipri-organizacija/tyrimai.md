@@ -112,7 +112,7 @@ d.
   didžiausios naudos, kurias jie įgauna veikdami Studentų atstovybėje,
   yra įgytos kompetencijos, bendruomenė ir prasminga saviraiška.
 
-## CO2 pėdsako tyrimas
+## CO<sub>2</sub> pėdsako tyrimas
 
 **Tyrimo tikslas:** šia ataskaita siekta įvertinti Vilniaus universiteto
 Studentų atstovybės (VU SA) veiklų poveikį aplinkai, analizuojant CO₂
