@@ -768,7 +768,13 @@ jaunimui, tinkamumo tyrimo rezultatai. Taip pat teikti siūlymai dėl
 programos „Sija" galimos komunikacijos strategijos pagrindiniam tyrimui
 vykdymo. Iš viso ataskaitiniu laikotarpiu įvyko 2 susitikimai.
 
-<!-- ### Darnaus vystymosi Universitetui rengimo DG -->
+### Darnaus vystymosi Universitetui rengimo DG
+
+*Studentų (-čių) atstovė - Dominyka Goldbergaitė* 
+
+Per ataskaitinį laikotarpį darbo grupė parengė galutines VU darnaus vystymosi tikslų įgyvendinimo gaires ir veiklų plano projektą. Dokumentas buvo svarstytas VU Tarybos posėdyje.  
+
+Planas numato sistemingą Universiteto darbą siekiant užtikrinti tvarius bendruomenės vystymo, infrastruktūros pritaikymo, sprendimų priėmėjų, studijų proceso optimizavimo sprendimus. Šiais metais pagaliau buvo padėtas stiprus pamatas, laukiama dokumento patvirtinimo.
 
 ### VU dėstytojų pedagoginių kompetencijų sistemos tobulinimo DG
 
@@ -791,7 +797,7 @@ vertinama, kaip personalo tobulinimo veikla gerina studentų (-čių)
 mokymosi rezultatus. Ji taip pat pasiūlys būdų, kaip juos sustiprinti ir
 tinkamai panaudoti.
 
-### III pakopos studentų (-čių) atstovavimas
+## III pakopos studentų (-čių) atstovavimas
 
 Ataskaitinių laikotarpiu ir toliau aktyviai dirbta ties trečiosios
 pakopos studentų (-čių) atstovavimu. Šiuo laikotarpiu įvyko trys
