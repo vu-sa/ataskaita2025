@@ -880,7 +880,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 #pagebreak()
 
 #section-page(
-  title: "Darni universitetinė bendruomenė",
+  title: "Sustainable University Community",
   bg-image: "../src/public/img/gallery/VU SA 24-25-05.jpg",
   primaryColor: primaryColor,
   accentColor: accentColor,
@@ -922,7 +922,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "startfm2"), h1-level: 2)
 
-=== Kendo klubas
+=== VU Kendo Club
 
 #two-columns(
   left: [
@@ -938,7 +938,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "kendo2"), h1-level: 2)
 
-=== VU KD
+=== VU Career Days
 
 #two-columns(
   left: [
@@ -954,7 +954,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "kd2"), h1-level: 2)
 
-=== VU Debatų klubas
+=== VU Debate Club
 
 #two-columns(
   left: [
@@ -984,7 +984,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "beetikeciu2"), h1-level: 2)
 
-=== VU SIF
+=== VU Student Investment Fund
 
 #two-columns(
   left: [
@@ -1000,7 +1000,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "sif2"), h1-level: 2)
 
-// ESN
+=== ESN Vilnius University
 
 #two-columns(
   left: [
@@ -1016,7 +1016,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "esn2"), h1-level: 2)
 
-=== Teisės klinika
+=== VU Law Clinic
 
 #two-columns(
   left: [
@@ -1032,7 +1032,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "vutk2"), h1-level: 2)
 
-=== The Coins
+=== The Coins Conference
 
 #two-columns(
   left: [
@@ -1048,7 +1048,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "thecoins2"), h1-level: 2)
 
-=== Jaunųjų Žurnalistų Draugija
+=== Young Journalists' Association
 
 #two-columns(
   left: [
@@ -1064,7 +1064,8 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "jzk2"), h1-level: 2)
 
-=== HEMA kovos menų klubas
+=== Alber aus VU HEMA Club
+
 #two-columns(
   left: [
     #image(
@@ -1078,7 +1079,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 )
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "hema2"), h1-level: 2)
 
-=== Tvarumo ambasadorių tinklas
+=== Sustainability Ambassadors Network
 
 #two-columns(
   left: [
@@ -1093,7 +1094,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 )
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "tat2"), h1-level: 2)
 
-=== SMMS
+=== Students for pupils, pupils for students (SMMS)
 
 #two-columns(
   left: [
@@ -1108,7 +1109,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 )
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "smms2"), h1-level: 2)
 
-=== Rašytojų klubas
+=== Writers' Club
 
 #two-columns(
   left: [
@@ -1123,7 +1124,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 )
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "rk2"), h1-level: 2)
 
-=== UYGL
+=== Ukrainian Youth Group in Lithuania
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "uygl"), h1-level: 2)
 
@@ -1142,6 +1143,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "foto2"), h1-level: 2)
 
 === Kauliukas
+
 #two-columns(
   left: [
     #image(
@@ -1155,7 +1157,8 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 )
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "kauliukas2"), h1-level: 2)
 
-=== Klubas „Artì"
+=== Club „Artì"
+
 #two-columns(
   left: [
     #image(
@@ -1170,6 +1173,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "arti2"), h1-level: 2)
 
 === (Un)discovered Asia
+
 #two-columns(
   left: [
     #image(
@@ -1184,6 +1188,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "uasia2"), h1-level: 2)
 
 === SPPK
+
 #two-columns(
   left: [
     #image(
@@ -1199,7 +1204,8 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/en/darni-bendruomene/iniciatyvos.md", section_id: "konsultavimas1"), h1-level: 2)
 
-=== Nėrimo klubas
+=== Crochet Club
+
 #two-columns(
   left: [
     #image(
@@ -1212,7 +1218,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
   ratio: (1, 3)
 )
 
-=== Aurora basket
+=== Aurora Basket
 
 #two-columns(
   left: [
@@ -1226,7 +1232,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
   ratio: (1, 3)
 )
 
-=== Astronomų klubas
+=== Astronomy Club
 #two-columns(
   left: [
     #image(

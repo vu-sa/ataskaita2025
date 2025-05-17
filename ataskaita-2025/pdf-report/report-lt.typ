@@ -957,7 +957,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 
 #cmarker.render(read_file_section("./src/darni-bendruomene/iniciatyvos.md", section_id: "sif2"), h1-level: 2)
 
-// ESN
+=== ESN Vilnius University
 
 #two-columns(
   left: [
@@ -1169,7 +1169,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   ratio: (1, 3)
 )
 
-=== Aurora basket
+=== Aurora Basket
 
 #two-columns(
   left: [
