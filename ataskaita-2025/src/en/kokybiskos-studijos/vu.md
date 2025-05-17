@@ -312,319 +312,45 @@ This year, over 250 SPC meetings and more than 100 Faculty Council
 meetings took place at VU. Below is a detailed statistical summary of
 these meetings and the main issues discussed.
 
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **VU      | **Nr. of     | **Key Topics Discussed**                  | -->
-<!-- | CAU**     | Council      |                                           | -->
-<!-- |           | Meetings**   |                                           | -->
-<!-- +===========+==============+===========================================+ -->
-<!-- | **Faculty | 11           | 1.  Approval of the new Director of the   | -->
-<!-- | of        |              |     Institute of Chemistry;               | -->
-<!-- | Chemistry |              |                                           | -->
-<!-- | and       |              | 2.  Endorsement of submissions to various | -->
-<!-- | Geos      |              |     competitions;                         | -->
-<!-- | ciences** |              |                                           | -->
-<!-- |           |              | 3.  Approval of incentive procedures for  | -->
-<!-- |           |              |     scientific achievements;              | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 4.  Approval of evaluation forms for      | -->
-<!-- |           |              |     contributions to study quality.       | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 14           | 1.  Approval of SPC improvement reports;  | -->
-<!-- | of        |              |                                           | -->
-<!-- | Economics |              | 2.  Study programme changes;              | -->
-<!-- | and       |              |                                           | -->
-<!-- | Business  |              | 3.  Student support issues.               | -->
-<!-- | Adminis   |              |                                           | -->
-<!-- | tration** |              |                                           | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 9            | 1.  Budget approval;                      | -->
-<!-- | of        |              |                                           | -->
-<!-- | Physics** |              | 2.  Appointment of a new Vice-Dean for    | -->
-<!-- |           |              |     Studies;                              | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Updates to SPC compositions.          | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 10           | 1.  Approval of the 2024--2025 Council    | -->
-<!-- | of        |              |     work plan;                            | -->
-<!-- | Ph        |              |                                           | -->
-<!-- | ilology** |              | 2.  Formation of a working group for      | -->
-<!-- |           |              |     study programme improvement           | -->
-<!-- |           |              |     (including two student                | -->
-<!-- |           |              |     representatives);                     | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of general methodological    | -->
-<!-- |           |              |     guidelines for thesis writing;        | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 4.  Approval of changes to BA and MA      | -->
-<!-- |           |              |     programmes;                           | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 5.  Approval of the 2024 annual activity  | -->
-<!-- |           |              |     report.                               | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 8            | 1.  Updates to BA and MA study            | -->
-<!-- | of        |              |     programmes;                           | -->
-<!-- | Phi       |              |                                           | -->
-<!-- | losophy** |              | 2.  Changes in SPC compositions;          | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of annual tuition fees for   | -->
-<!-- |           |              |     BA, MA, and doctoral programmes;      | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 4.  Establishment of a Doctoral School in | -->
-<!-- |           |              |     Education;                            | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 5.  Creation of a new SPC for the         | -->
-<!-- |           |              |     international study programme         | -->
-<!-- |           |              |     "Sustainability and Future            | -->
-<!-- |           |              |     Societies."                           | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Life    | 6            | 1.  Election of VU LSC Director;          | -->
-<!-- | Sciences  |              |                                           | -->
-<!-- | Center**  |              | 2.  Approval of the LSC budget;           | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of annual tuition fees.      | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 8            | 1.  Election of the new Dean;             | -->
-<!-- | of        |              |                                           | -->
-<!-- | History** |              | 2.  Updates to thesis writing guidelines  | -->
-<!-- |           |              |     regarding (non-)use of AI;            | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Presentation of integration research. | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 7            | 1.  Formation and approval of new SPC     | -->
-<!-- | of        |              |     compositions;                         | -->
-<!-- | Commun    |              |                                           | -->
-<!-- | ication** |              | 2.  Approval of changes to BA and MA      | -->
-<!-- |           |              |     study plans;                          | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of new annual tuition fees.  | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Kaunas  | 13           | 1.  Revision of the regulation for        | -->
-<!-- | Faculty** |              |     incentives for scientific             | -->
-<!-- |           |              |     achievements;                         | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 2.  Approval of editorial boards of       | -->
-<!-- |           |              |     scientific journals;                  | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of BUS module descriptions;  | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 4.  Approval of new annual tuition fees.  | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 12           | 1.  Allocation of funds;                  | -->
-<!-- | of        |              |                                           | -->
-<!-- | Ma        |              | 2.  Submission of scientific works to     | -->
-<!-- | thematics |              |     various projects;                     | -->
-<!-- | and       |              |                                           | -->
-<!-- | Info      |              | 3.  Updates to SPC compositions;          | -->
-<!-- | rmatics** |              |                                           | -->
-<!-- |           |              | 4.  Approval of academic degree           | -->
-<!-- |           |              |     candidates;                           | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 5.  Approval of the new Director of TMI.  | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 11           | 1.  Execution of residency programmes,    | -->
-<!-- | of        |              |     rules for recognition of              | -->
-<!-- | M         |              |     competencies;                         | -->
-<!-- | edicine** |              |                                           | -->
-<!-- |           |              | 2.  Approval of methodological resources; | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Introduction of new funding procedure | -->
-<!-- |           |              |     for student conference travel;        | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 4.  Update of admission score formula for | -->
-<!-- |           |              |     residency;                            | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 5.  Revision of student scientific        | -->
-<!-- |           |              |     activity scoring system.              | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | *         | 7            | 1.  Changes to thesis preparation and     | -->
-<!-- | *Šiauliai |              |     defence procedures;                   | -->
-<!-- | Academy** |              |                                           | -->
-<!-- |           |              | 2.  Changes in SPC compositions;          | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of the 2024 annual activity  | -->
-<!-- |           |              |     report.                               | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **        | 6            | 1.  Approval of mandatory adaptive        | -->
-<!-- | Institute |              |     practice regulations;                 | -->
-<!-- | of        |              |                                           | -->
-<!-- | Inte      |              | 2.  Approval of AI usage declaration      | -->
-<!-- | rnational |              |     form;                                 | -->
-<!-- | Relations |              |                                           | -->
-<!-- | and       |              | 3.  Approval of strategic action plan for | -->
-<!-- | Political |              |     2025--2030.                           | -->
-<!-- | Science** |              |                                           | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | **Faculty | 7            | 1.  Approval of textbooks and teaching    | -->
-<!-- | of Law**  |              |     materials;                            | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 2.  Approval of incentive funds for       | -->
-<!-- |           |              |     contributions to study quality,       | -->
-<!-- |           |              |     expert activity, and communication in | -->
-<!-- |           |              |     the name of the university;           | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of BUS subject "European     | -->
-<!-- |           |              |     Green Deal and Sustainability."       | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!-- | *         | 7            | 1.  Approval of named VU BS scholarships; | -->
-<!-- | *Business |              |                                           | -->
-<!-- | School**  |              | 2.  Presentation of 2024 activity reports | -->
-<!-- |           |              |     from BA and MA programme committees;  | -->
-<!-- |           |              |                                           | -->
-<!-- |           |              | 3.  Approval of study regulation          | -->
-<!-- |           |              |     descriptions.                         | -->
-<!-- +-----------+--------------+-------------------------------------------+ -->
-<!---->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **VU CAU** | **Number | **Key Topics Discussed**                    | -->
-<!-- |            | of SPC   |                                             | -->
-<!-- |            | Me       |                                             | -->
-<!-- |            | etings** |                                             | -->
-<!-- +============+:========:+=============================================+ -->
-<!-- | **Faculty  | 26       | 1.  Permission granted to a master's        | -->
-<!-- | of         |          |     student to defend thesis remotely due   | -->
-<!-- | Chemistry  |          |     to internship;                          | -->
-<!-- | and        |          |                                             | -->
-<!-- | Geo        |          | 2.  Changes to the study timetable          | -->
-<!-- | sciences** |          |     (subjects moved to a different          | -->
-<!-- |            |          |     semester);                              | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Course content improved based on        | -->
-<!-- |            |          |     student survey and issues raised at the | -->
-<!-- |            |          |     SPC meeting;                            | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Approval of course descriptions.        | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 30       | 1.  Approval of course descriptions;        | -->
-<!-- | of         |          |                                             | -->
-<!-- | Economics  |          | 2.  Changes in teaching staff;              | -->
-<!-- | and        |          |                                             | -->
-<!-- | Business   |          | 3.  Updates to the composition of study     | -->
-<!-- | Admini     |          |     program committees;                     | -->
-<!-- | stration** |          |                                             | -->
-<!-- |            |          | 4.  Approval of bachelor\'s and master\'s   | -->
-<!-- |            |          |     thesis topics;                          | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 15       | 1.  Updates to study programme timetables;  | -->
-<!-- | of         |          |                                             | -->
-<!-- | Physics**  |          | 2.  Changes in teaching staff.              | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 32       | 1.  Discussion of study programme           | -->
-<!-- | of         |          |     timetable;                              | -->
-<!-- | P          |          |                                             | -->
-<!-- | hilology** |          | 2.  Changes to elective course list and     | -->
-<!-- |            |          |     scheduling;                             | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Selection of MA thesis topics and       | -->
-<!-- |            |          |     updates to old assessment practices;    | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Study programme reform (Scandinavian    | -->
-<!-- |            |          |     studies).                               | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 35       | 1.  Approval of course descriptions,        | -->
-<!-- | of         |          |     including new electives and individual  | -->
-<!-- | Ph         |          |     study subjects;                         | -->
-<!-- | ilosophy** |          |                                             | -->
-<!-- |            |          | 2.  Approval of BA and MA thesis topics;    | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Review of study workload and            | -->
-<!-- |            |          |     corresponding course credits            | -->
-<!-- |            |          |     (transition to 5 ECTS for master\'s     | -->
-<!-- |            |          |     courses, reduction of workload for      | -->
-<!-- |            |          |     4th-year bachelor students);            | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Presentation of feedback guidelines     | -->
-<!-- |            |          |     prepared by VU SA FsF.                  | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Life     | 14       | 1.  Review and approval of course           | -->
-<!-- | Sciences   |          |     descriptions;                           | -->
-<!-- | Center**   |          |                                             | -->
-<!-- |            |          | 2.  Presentation of collected student       | -->
-<!-- |            |          |     feedback during meetings;               | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Review and adjustment of course         | -->
-<!-- |            |          |     workloads (independent vs. contact      | -->
-<!-- |            |          |     hours).                                 | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 0        | No meetings were held during the reporting  | -->
-<!-- | of         |          | period.                                     | -->
-<!-- | History**  |          |                                             | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 29       | 1.  Approval of course descriptions;        | -->
-<!-- | of         |          |                                             | -->
-<!-- | Commu      |          | 2.  Approval of coursework and thesis       | -->
-<!-- | nication** |          |     topics, and internship placements;      | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Review and update of study timetables;  | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Presentation of student feedback.       | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Kaunas   | 30       | 1.  Review of methodological guidelines;    | -->
-<!-- | Faculty**  |          |                                             | -->
-<!-- |            |          | 2.  Approval of BA and MA thesis topics;    | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Adjustments to study timetables and     | -->
-<!-- |            |          |     minimum admission requirements for MA   | -->
-<!-- |            |          |     programmes;                             | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Discussion on whether to discontinue    | -->
-<!-- |            |          |     departmental thesis defences -- decided | -->
-<!-- |            |          |     to keep them.                           | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 16       | 1.  Review of student feedback surveys;     | -->
-<!-- | of         |          |                                             | -->
-<!-- | M          |          | 2.  Approval of new courses;                | -->
-<!-- | athematics |          |                                             | -->
-<!-- | and        |          | 3.  Discussion on the use of AI;            | -->
-<!-- | Inf        |          |                                             | -->
-<!-- | ormatics** |          | 4.  Changes in course delivery (e.g.,       | -->
-<!-- |            |          |     English language instruction, teaching  | -->
-<!-- |            |          |     staff changes).                         | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 48       | 1.  Optimization of study timetables and    | -->
-<!-- | of         |          |     updates to course descriptions;         | -->
-<!-- | Medicine** |          |                                             | -->
-<!-- |            |          | 2.  Improvement of internship organization  | -->
-<!-- |            |          |     and achievement tracking;               | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Introduction of conference              | -->
-<!-- |            |          |     participation funding procedure;        | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 4.  Improvement of scientific activity      | -->
-<!-- |            |          |     scoring method.                         | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Šiauliai | 0        | No meetings were held during the reporting  | -->
-<!-- | Academy**  |          | period.                                     | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | *          | 12       | 1.  Discussion of student feedback;         | -->
-<!-- | *Institute |          |                                             | -->
-<!-- | of         |          | 2.  Structural changes to programmes;       | -->
-<!-- | Int        |          |                                             | -->
-<!-- | ernational |          | 3.  Mandatory internship;                   | -->
-<!-- | Relations  |          |                                             | -->
-<!-- | and        |          | 4.  Approval of individual study courses.   | -->
-<!-- | Political  |          |                                             | -->
-<!-- | Science**  |          |                                             | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Faculty  | 4        | 1.  Updates to the preparation, defence,    | -->
-<!-- | of Law**   |          |     evaluation, and storage procedures of   | -->
-<!-- |            |          |     coursework and final theses;            | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 2.  Approval of new specialization "Market  | -->
-<!-- |            |          |     Regulation and Compliance" -- to be     | -->
-<!-- |            |          |     included in the list of optional        | -->
-<!-- |            |          |     specializations starting spring 2025;   | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Approval of new individual study        | -->
-<!-- |            |          |     courses.                                | -->
-<!-- +------------+----------+---------------------------------------------+ -->
-<!-- | **Business | 4        | 1.  Review and approval of methodological   | -->
-<!-- | School**   |          |     guidelines                              | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 2.  Changes in teaching staff               | -->
-<!-- |            |          |                                             | -->
-<!-- |            |          | 3.  Approval of bachelor\'s and master\'s   | -->
-<!-- |            |          |     thesis topics                           | -->
-<!-- +------------+----------+---------------------------------------------+ -->
+### CAU Council meetings
+
+| VU CAU                                                     | Nr. of Council Meetings | Key Topics Discussed                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Faculty of Chemistry and Geosciences                       | 11                      |  <br>Approval of the new Director of the Institute of Chemistry;<br> <br>Endorsement of submissions to various competitions;<br> <br>Approval of incentive procedures for scientific achievements;<br> <br>Approval of evaluation forms for contributions to study quality.                                                                          |
+| Faculty of Economics and Business Administration           | 14                      |  <br>Approval of SPC improvement reports;<br> <br>Study programme changes;<br> <br>Student support issues.                                                                                                                                                                                                                                           |
+| Faculty of Physics                                         | 9                       |  <br>Budget approval;<br> <br>Appointment of a new Vice-Dean for Studies;<br> <br>Updates to SPC compositions.                                                                                                                                                                                                                                       |
+| Faculty of Philology                                       | 10                      |  <br>Approval of the 2024–2025 Council work plan;<br> <br>Formation of a working group for study programme improvement (including two student representatives);<br> <br>Approval of general methodological guidelines for thesis writing;<br> <br>Approval of changes to BA and MA programmes;<br> <br>Approval of the 2024 annual activity report.  |
+| Faculty of Philosophy                                      | 8                       |  <br>Updates to BA and MA study programmes;<br> <br>Changes in SPC compositions;<br> <br>Approval of annual tuition fees for BA, MA, and doctoral programmes;<br> <br>Establishment of a Doctoral School in Education;<br> <br>Creation of a new SPC for the international study programme “Sustainability and Future Societies.”                    |
+| Life Sciences Center                                       | 6                       |  <br>Election of VU LSC Director;<br> <br>Approval of the LSC budget;<br> <br>Approval of annual tuition fees.                                                                                                                                                                                                                                       |
+| Faculty of History                                         | 8                       |  <br>Election of the new Dean;<br> <br>Updates to thesis writing guidelines regarding (non-)use of AI;<br> <br>Presentation of integration research.                                                                                                                                                                                                 |
+| Faculty of Communication                                   | 7                       |  <br>Formation and approval of new SPC compositions;<br> <br>Approval of changes to BA and MA study plans;<br> <br>Approval of new annual tuition fees.                                                                                                                                                                                              |
+| Kaunas Faculty                                             | 13                      |  <br>Revision of the regulation for incentives for scientific achievements;<br> <br>Approval of editorial boards of scientific journals;<br> <br>Approval of BUS module descriptions;<br> <br>Approval of new annual tuition fees.                                                                                                                   |
+| Faculty of Mathematics and Informatics                     | 12                      |  <br>Allocation of funds;<br> <br>Submission of scientific works to various projects;<br> <br>Updates to SPC compositions;<br> <br>Approval of academic degree candidates;<br> <br>Approval of the new Director of TMI.                                                                                                                              |
+| Faculty of Medicine                                        | 11                      |  <br>Execution of residency programmes, rules for recognition of competencies;<br> <br>Approval of methodological resources;<br> <br>Introduction of new funding procedure for student conference travel;<br> <br>Update of admission score formula for residency;<br> <br>Revision of student scientific activity scoring system.                   |
+| Šiauliai Academy                                           | 7                       |  <br>Changes to thesis preparation and defence procedures;<br> <br>Changes in SPC compositions;<br> <br>Approval of the 2024 annual activity report.                                                                                                                                                                                                 |
+| Institute of International Relations and Political Science | 6                       |  <br>Approval of mandatory adaptive practice regulations;<br> <br>Approval of AI usage declaration form;<br> <br>Approval of strategic action plan for 2025–2030.                                                                                                                                                                                    |
+| Faculty of Law                                             | 7                       |  <br>Approval of textbooks and teaching materials;<br> <br>Approval of incentive funds for contributions to study quality, expert activity, and communication in the name of the university;<br> <br>Approval of BUS subject “European Green Deal and Sustainability.”                                                                               |
+| Business School                                            | 7                       |  <br>Approval of named VU BS scholarships;<br> <br>Presentation of 2024 activity reports from BA and MA programme committees;<br> <br>Approval of study regulation descriptions.                                                                                                                                                                     |
+
+### CAU meetings
+
+| VU CAU                                                     | Number of SPC Meetings | Key Topics Discussed                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Faculty of Chemistry and Geosciences                       | 26                     |  <br>Permission granted to a master’s student to defend thesis remotely due to internship;<br> <br>Changes to the study timetable (subjects moved to a different semester);<br> <br>Course content improved based on student survey and issues raised at the SPC meeting;<br> <br>Approval of course descriptions.                                                                 |
+| Faculty of Economics and Business Administration           | 30                     |  <br>Approval of course descriptions;<br> <br>Changes in teaching staff;<br> <br>Updates to the composition of study program committees;<br> <br>Approval of bachelor's and master's thesis topics;                                                                                                                                                                                |
+| Faculty of Physics                                         | 15                     |  <br>Updates to study programme timetables;<br> <br>Changes in teaching staff.                                                                                                                                                                                                                                                                                                     |
+| Faculty of Philology                                       | 32                     |  <br>Discussion of study programme timetable;<br> <br>Changes to elective course list and scheduling;<br> <br>Selection of MA thesis topics and updates to old assessment practices;<br> <br>Study programme reform (Scandinavian studies).                                                                                                                                        |
+| Faculty of Philosophy                                      | 35                     |  <br>Approval of course descriptions, including new electives and individual study subjects;<br> <br>Approval of BA and MA thesis topics;<br> <br>Review of study workload and corresponding course credits (transition to 5 ECTS for master's courses, reduction of workload for 4th-year bachelor students);<br> <br>Presentation of feedback guidelines prepared by VU SA FsF.  |
+| Life Sciences Center                                       | 14                     |  <br>Review and approval of course descriptions;<br> <br>Presentation of collected student feedback during meetings;<br> <br>Review and adjustment of course workloads (independent vs. contact hours).                                                                                                                                                                            |
+| Faculty of History                                         | 0                      | No meetings were held during the reporting period.                                                                                                                                                                                                                                                                                                                                 |
+| Faculty of Communication                                   | 29                     |  <br>Approval of course descriptions;<br> <br>Approval of coursework and thesis topics, and internship placements;<br> <br>Review and update of study timetables;<br> <br>Presentation of student feedback.                                                                                                                                                                        |
+| Kaunas Faculty                                             | 30                     |  <br>Review of methodological guidelines;<br> <br>Approval of BA and MA thesis topics;<br> <br>Adjustments to study timetables and minimum admission requirements for MA programmes;<br> <br>Discussion on whether to discontinue departmental thesis defences – decided to keep them.                                                                                             |
+| Faculty of Mathematics and Informatics                     | 16                     |  <br>Review of student feedback surveys;<br> <br>Approval of new courses;<br> <br>Discussion on the use of AI;<br> <br>Changes in course delivery (e.g., English language instruction, teaching staff changes).                                                                                                                                                                    |
+| Faculty of Medicine                                        | 48                     |  <br>Optimization of study timetables and updates to course descriptions;<br> <br>Improvement of internship organization and achievement tracking;<br> <br>Introduction of conference participation funding procedure;<br> <br>Improvement of scientific activity scoring method.                                                                                                  |
+| Šiauliai Academy                                           | 0                      | No meetings were held during the reporting period.                                                                                                                                                                                                                                                                                                                                 |
+| Institute of International Relations and Political Science | 12                     |  <br>Discussion of student feedback;<br> <br>Structural changes to programmes;<br> <br>Mandatory internship;<br> <br>Approval of individual study courses.                                                                                                                                                                                                                         |
+| Faculty of Law                                             | 4                      |  <br>Updates to the preparation, defence, evaluation, and storage procedures of coursework and final theses;<br> <br>Approval of new specialization “Market Regulation and Compliance” – to be included in the list of optional specializations starting spring 2025;<br> <br>Approval of new individual study courses.                                                            |
+| Business School                                            | 4                      |  <br>Review and approval of methodological guidelines<br> <br>Changes in teaching staff<br> <br>Approval of bachelor's and master's thesis topics                                                                                                                                                                                                                                  |
 
 ## Senate Commissions 
 
