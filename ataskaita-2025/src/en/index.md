@@ -16,7 +16,7 @@ hero:
   actions:
     - theme: brand
       text: Learn about this year!
-      link: /en/mvp/strategy
+      link: /en/strategija
     - theme: alt
       text: Download PDF Report
       link: /VU_SR_Report_2024_2025.pdf

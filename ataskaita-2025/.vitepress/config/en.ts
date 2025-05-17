@@ -21,10 +21,10 @@ export default {
         },
         sidebar: [
             { text: 'Congratulations', link: '/en/sveikinimai' },
-            { text: 'Strategy', link: '/strategy' },
             {
-                text: 'VU SR structure ⭐️',
+                text: 'VU SR structure and principles of activity ⭐️',
                 items: [
+                    { text: 'Strategy', link: '/en/strategija' },
                     { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
                     { text: 'Board', link: '/en/vu-sa/taryba' },
                     { text: 'Institutional Strengthening Fund', link: '/en/vu-sa/isf' },

@@ -36,10 +36,10 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
         sidebar: [
             
             { text: 'Sveikinimai', link: '/sveikinimai' },
-            { text: 'Strategija', link: '/strategija' },
             {
-                text: 'VU SA struktūros ⭐️',
+                text: 'VU SA struktūra ir veiklos principai ⭐️',
                 items: [
+                    { text: 'Strategija', link: '/strategija' },
                     { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
                     { text: 'Taryba', link: '/vu-sa/taryba' },
                     { text: 'Institucinio stiprinimo fondas', link: '/vu-sa/isf' },
