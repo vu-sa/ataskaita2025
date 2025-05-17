@@ -25,8 +25,8 @@ const compressLithuanianPDF = async () => {
 const compressEnglishPDF = async () => {
   try {
     console.log('Compressing English PDF report...');
-    const inputFile = 'VU_SA_Report_2024_2025.pdf';
-    const outputFile = 'VU_SA_Report_2024_2025.pdf';
+    const inputFile = 'VU_SR_Report_2024_2025.pdf';
+    const outputFile = 'VU_SR_Report_2024_2025.pdf';
     
     // Use the correct API: compress returns a buffer
     const buffer = await compress(inputFile, {

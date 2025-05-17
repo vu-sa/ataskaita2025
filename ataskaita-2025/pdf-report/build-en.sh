@@ -22,11 +22,11 @@ if [ ! -f "report-en.typ" ]; then
 fi
 
 # Compile the Typst document
-typst compile report-en.typ "VU_SA_Report_2024_2025.pdf"
+typst compile report-en.typ "VU_SR_Report_2024_2025.pdf"
 
 # Check if compilation was successful
 if [ $? -eq 0 ]; then
-    echo "PDF successfully generated: VU_SA_Report_2024_2025.pdf"
+    echo "PDF successfully generated: VU_SR_Report_2024_2025.pdf"
     
     # Compress the generated PDF
     echo "Compressing PDF..."

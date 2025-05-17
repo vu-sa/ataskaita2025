@@ -62,7 +62,7 @@ const profile = profileArg ? profileArg.split('=')[1] : 'balanced';
 if (args.includes('--lt')) {
   compressPDFWithProfile('VU_SA_Ataskaita_2024_2025.pdf', 'VU_SA_Ataskaita_2024_2025.pdf', profile);
 } else if (args.includes('--en')) {
-  compressPDFWithProfile('VU_SA_Report_2024_2025.pdf', 'VU_SA_Report_2024_2025.pdf', profile);
+  compressPDFWithProfile('VU_SR_Report_2024_2025.pdf', 'VU_SR_Report_2024_2025.pdf', profile);
 } else if (fileArg) {
   // Custom file compression
   const inputFile = fileArg;
