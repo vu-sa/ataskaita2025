@@ -175,7 +175,7 @@ iniciatyvų bendruomenė ir toliau augtų.
 
 ## Įvaizdžio knyga
 
-Besikeičiant organizacinių įvaizdžių kontekstui ir standartui, natūralu, jau ne ilgą laiką keitėsi ir lūkesčiai Atstovybės įvaizdžiui. Tuo tarpu Organizacijos stiliaus knyga nesikeitusi 10 metų, o logotipas – 30 metų. Įsipareigojome atnaujinti Organizacijos vizualinį identitetą, atsižvelgiant į naujausias tendencijas bei atliepiant poreikį atspindėti patikimo partnerio ir patrauklios universiteto studentų (-čių) bendruomenės įvaizdį bei kartu sprendžiant daugelį susijusių iki šiol praktinių iššūkių komunikacijos srityje. 2024–2025 m. m. kadencijos laikotarpiu buvo vykdomas ilgai trukęs organizacijos vizualinio identiteto naujinimo procesas. 
+Besikeičiant organizacinių įvaizdžių kontekstui ir standartui, natūralu, jau ilgą laiką keitėsi ir lūkesčiai Atstovybės įvaizdžiui. Tuo tarpu Organizacijos stiliaus knyga nesikeitusi 10 metų, o logotipas – 30 metų. Įsipareigojome atnaujinti Organizacijos vizualinį identitetą, atsižvelgiant į naujausias tendencijas bei atliepiant poreikį atspindėti patikimo partnerio ir patrauklios universiteto studentų (-čių) bendruomenės įvaizdį bei kartu sprendžiant daugelį susijusių iki šiol praktinių iššūkių komunikacijos srityje. 2024–2025 m. m. kadencijos laikotarpiu buvo vykdomas ilgai trukęs organizacijos vizualinio identiteto naujinimo procesas. 
 
 ### Dialogas ir grįžtamasis ryšys 
 

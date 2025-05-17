@@ -193,6 +193,8 @@
   accentColor: accentColor
 )
 
+#pagebreak()
+
 ///// --- DATA
 //
 // Load data from CSV file
