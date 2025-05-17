@@ -378,7 +378,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   showPadalinys: false,
 )
 
-#cmarker.render(read_file_lines("./src/vu-sa/revizijos-komisija.md", start: 6))
+#cmarker.render(read_file_lines("./src/vu-sa/revizijos-komisija.md", start: 14))
 
 #pagebreak()
 
@@ -389,7 +389,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   accentColor: accentColor,
 )[
   *VU SA Institucinio stiprinimo fondas* - tai 
-#cmarker.render(read_file_lines("./src/vu-sa/isf.md", start: 15, end: 16))
+#cmarker.render(read_file_lines("./src/vu-sa/isf.md", start: 14, end: 15))
   ]
 
 *2024-2025 m. Institucinio stiprinimo fondą sudarė:*

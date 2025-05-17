@@ -7,7 +7,6 @@ const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas"
 
 </script>
 
-
 # Institucinio stiprinimo fondas
 
 <TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
