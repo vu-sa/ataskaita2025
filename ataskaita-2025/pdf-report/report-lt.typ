@@ -426,15 +426,17 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   accentColor: accentColor,
 )
 
-dsaf
-
 #cmarker.render(read_file_lines("./src/kokybiskos-studijos/nacionalinis.md"), h1-level: 2)
 
 #v(2em)
 
 #cmarker.render(read_file_lines("./src/kokybiskos-studijos/vu.md", start: 40), h1-level: 2)
 
+#pagebreak()
+
 #cmarker.render(read_file_lines("./src/kokybiskos-studijos/bendradarbiavimas.md", start: 0), h1-level: 2)
+
+#pagebreak()
 
 #cmarker.render(read_file_lines("./src/kokybiskos-studijos/tarptautinis.md", start: 0), h1-level: 2)
 
