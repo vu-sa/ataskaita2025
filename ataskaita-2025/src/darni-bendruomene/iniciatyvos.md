@@ -218,6 +218,14 @@ lavinimui bei atstovaujantis Vilniaus universitetui debatų turnyruose.
 <!-- SECTION:debatuklubas1:END -->
 <!-- SECTION:debatuklubas2:START -->
 
+Šie metai Debatų klubui buvo itin sėkmingi – klubas augo tiek renginių organizavimo, tiek dalyvavimo tarptautiniuose turnyruose srityje (paminėtini turnyrai Rygoje, Reme, Stokholme ir kt.). Šiemet surengėme net du įspūdingus turnyrus tiek nacionaliniu, tiek tarptautiniu mastu. Kovo pabaigoje organizavome „Vilnius Speakeasy“ turnyrą, skirtą stiprinti Lietuvos debatininkų įgūdžius Britų Parlamento (BP) formato debatuose – dalyvius sužavėjo žaisminga 1920-ųjų džiazo tematika. Gegužės pradžioje įvyko tai, kuo ypač didžiuojamės – didžiausias BP formato turnyras Lietuvoje per pastaruosius metus, kurio organizacinėje komandoje dalyvavo tarptautiniai nariai, o jame varžėsi daugiau nei 40 komandų (tai daugiau nei 80 aktyvių debatų dalyvių, ilgai ruošusių savo įgūdžius). 
+
+Be šių reikšmingų pasiekimų, džiaugiamės ir tuo, kad aktyvių klubo narių skaičius išaugo iki maždaug 40 žmonių – tai didžiausias skaičius klubo istorijoje! Kas savaitę vyksta dvi sesijos, kurioms prieš tai vedamos kokybiškos mokomosios dirbtuvės, kurias organizuoja mūsų treniruočių pareigūnas. Debatų dalyviai ne tik praktikuojasi, bet ir mokosi, kaip kurti bei struktūruoti argumentus, susipažįsta su politikos, ekonomikos, etikos, technologijų ir teisės pagrindais. Šios žinios padeda stiprinti viešojo kalbėjimo, anglų kalbos, organizacinius, pasitikėjimo savimi ir komandinio darbo įgūdžius. 
+
+Reguliariai rengdami susitikimus stipriname klubo pagrindus ateičiai – ruošiame perdavimo dokumentus naujai tarybai ir nuolat stebime galimybes organizuoti naujus įdomius projektus. 
+
+Atsižvelgdami į sėkmę pritraukiant narius per socialinius tinklus, kitais metais planuojame tęsti šią strategiją ir toliau plėtoti savo veiklą bei palikimą. 
+
 <!-- SECTION:debatuklubas2:END -->
 
 ## Be etikečių

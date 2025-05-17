@@ -128,4 +128,5 @@ Thank you to Vilnius University Students’ Representation, who’s consistent p
 
 Thank you for sharing your ideas and perspectives on how you and your student representation create systematic change in your university and country.  
 
+**ARQUS Student Council**
 <!-- SECTION:arqus:END -->

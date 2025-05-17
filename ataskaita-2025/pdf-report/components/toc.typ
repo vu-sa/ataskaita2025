@@ -1,4 +1,4 @@
-#let styled-toc(primaryColor: rgb("#fbad13"), accentColor: rgb("#b5333e")) = {
+#let styled-toc(header: "Turinys", primaryColor: rgb("#fbad13"), accentColor: rgb("#b5333e")) = {
   block(
     inset: (x: 2.5em, y: 1.5em),
   )[
@@ -7,7 +7,7 @@
         weight: "bold",
         size: 2em, // Increased size, similar to H1
         fill: primaryColor.darken(10%), // Darker primary for better contrast
-      )[Turinys]
+      )[#header]
       #v(0.4em) // Space between title and line
       #line(
         length: 60%, // Line length

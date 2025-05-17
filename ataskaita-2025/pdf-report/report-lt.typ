@@ -152,7 +152,7 @@
   title: "Vilniaus universiteto Studentų atstovybės (VU SA) 2024-2025 m. veiklos ataskaita",
   authors: ("Vilniaus universiteto Studentų atstovybė (VU SA)", "VU SA"),
   date: datetime(year: 2025, month: 5, day: 16),  // Publication date shown in document
-  description: "Vilniaus universiteto Studentų atstovybės (VU SA) metinė veiklos ataskaita 2024-2025 metams, pristatanti organizacijos pasiekimus, įgyvendintus projektus ir studentų atstovavimo rezultatus. Dokumentas sugeneruotas: " + build_date.display("%Y-%m-%d"),
+  description: "Vilniaus universiteto Studentų atstovybės (VU SA) metinė veiklos ataskaita 2024-2025 metams, pristatanti organizacijos pasiekimus, įgyvendintus projektus ir studentų atstovavimo rezultatus.",
   keywords: extended_keywords,
   language: "lt",
   primaryColor: primaryColor,
@@ -169,6 +169,24 @@
   secondaryAccent: brandRed,
   date: "2025 m. gegužė"
 )
+
+///////
+
+#section-page(
+  title: "Sveikinimo žodžiai",
+  bg-image: "../src/public/img/gallery/VU SA 24-25-01.jpg",
+  primaryColor: primaryColor,
+  accentColor: accentColor,
+)
+
+#image(
+  "./src/public/img/people/kleja-mercaityte.jpg",
+  width: 50%,
+)
+
+#cmarker.render(read_file_section("./src/prezidentes-kalba.md", section_id: "presidents-letter"), h1-level: 2)
+
+#pagebreak()
 
 #styled-toc(
   primaryColor: primaryColor,
@@ -192,24 +210,6 @@
 }
 #let taryba = (updated-prezidente, ..pirmininkai)
 #let revizijos-komisija = get-persons-by-column(dariniai_data, "Darinys", "Revizijos komisija")
-
-///////
-
-#section-page(
-  title: "Sveikinimo žodžiai",
-  bg-image: "../src/public/img/gallery/VU SA 24-25-01.jpg",
-  primaryColor: primaryColor,
-  accentColor: accentColor,
-)
-
-#image(
-  "./src/public/img/people/kleja-mercaityte.jpg",
-  width: 50%,
-)
-
-#cmarker.render(read_file_section("./src/prezidentes-kalba.md", section_id: "presidents-letter"), h1-level: 2)
-
-#pagebreak()
 
 // SMSM
 
@@ -288,7 +288,7 @@
 
 #image(
   "src/public/img/congrats/arqus.png",
-  width: 50%,
+  width: 100%,
 )
 
 #cmarker.render(read_file_section("./src/sveikinimai.md", section_id: "arqus"), h1-level: 2)

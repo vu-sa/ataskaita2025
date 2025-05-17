@@ -4,7 +4,7 @@
 
 ::: tip 📖 VU SR Parliament is...
 
-VU SR Parliament is the highest decision-making body of the Vilnius
+**VU SR Parliament** is the highest decision-making body of the Vilnius
 University Students' Representation (VU SR), which discusses the most
 important social and academic issues related to students or other
 strategic issues of VU SR.
