@@ -16,6 +16,11 @@
       "href": "/vu-sa/parlamentas"
     },
     {
+      "link": "/img/dariniai/DAG.jpg",
+      "title": "Data Security Group",
+      "href": "/vu-sa/dag"
+    },
+    {
       "link": "/img/dariniai/SIC.jpg",
       "title": "Studentų iniciatyvų centras",
       "href": "/vu-sa/sic"
@@ -72,8 +77,85 @@
     },
     {
       "link": "/img/dariniai/PKP bendra.jpg",
-      "title": "Programos, klubai ir projektai",
-      "href": "#programos-klubai-ir-projektai"
+      "title": "Studentiškos iniciatyvos",
+      "href": "#iniciatyvu-vadovai"
+    }
+  ],
+  "en": [
+    {
+      "link": "/img/dariniai/CB.jpg",
+      "title": "Central Office",
+      "href": "#central-office"
+    },
+    {
+      "link": "/img/dariniai/Taryba.jpg",
+      "title": "VU SR Board",
+      "href": "/en/vu-sa/taryba"
+    },
+    {
+      "link": "/img/dariniai/Parlamentas.jpg",
+      "title": "VU SR Parliament",
+      "href": "/en/vu-sa/parlamentas"
+    },
+    {
+      "link": "/img/dariniai/SIC.jpg",
+      "title": "Student Initiatives Centre",
+      "href": "/en/vu-sa/sic"
+    },
+    {
+      "link": "/img/dariniai/Atstovai.jpg",
+      "title": "Representatives coordinators",
+      "href": "#representatives-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Akad.jpg",
+      "title": "Academic process coordinators",
+      "href": "#academic-process-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Soc.jpg",
+      "title": "Social process coordinators",
+      "href": "#social-process-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Kom.jpg",
+      "title": "Communication coordinators",
+      "href": "#communication-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Mark.jpg",
+      "title": "Marketing coordinators",
+      "href": "#marketing-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Org.jpg",
+      "title": "Organizational coordinators",
+      "href": "#organizational-coordinators"
+    },
+    {
+      "link": "/img/dariniai/HR.jpg",
+      "title": "Human resources coordinators",
+      "href": "#human-resources-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Integr.jpg",
+      "title": "Integration process coordinators",
+      "href": "#integration-process-coordinators"
+    },
+    {
+      "link": "/img/dariniai/ISAC.jpg",
+      "title": "International students coordinators",
+      "href": "#international-students-coordinators"
+    },
+    {
+      "link": "/img/dariniai/Admin.jpg",
+      "title": "Administrators",
+      "href": "#administrators"
+    },
+    {
+      "link": "/img/dariniai/PKP bendra.jpg",
+      "title": "Student initiatives",
+      "href": "#managers-of-initiatives"
     }
   ]
 }
