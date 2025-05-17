@@ -14,6 +14,7 @@ const props = defineProps<{
     objectPosition?: string
   }[];
   link: string;
+  buttonText: string;
 }>()
 
 const emblaMainApi = ref<CarouselApi>()
@@ -145,7 +146,7 @@ watchOnce(emblaMainApi, (api) => {
             :position="testimonial.position" 
             :href="`${link}${testimonial.anchor}`" 
             :object-position="testimonial.objectPosition"
-            button-text="Sveikinimo kalba"
+            :button-text="buttonText"
           >
             {{ testimonial.quotePreview }}
           </TestimonialElement>

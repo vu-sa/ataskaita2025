@@ -20,13 +20,16 @@ export default {
             dark: '/img/logos/vusa-en-w.png',
         },
         sidebar: [
+            { text: 'Congratulations', link: '/en/sveikinimai' },
+            { text: 'Strategy', link: '/strategy' },
             {
                 text: 'VU SR structure ⭐️',
                 items: [
                     { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
                     { text: 'Board', link: '/en/vu-sa/taryba' },
                     { text: 'Institutional Strengthening Fund', link: '/en/vu-sa/isf' },
-                    { text: 'Revision commision', link: '/en/vu-sa/revizijos-komisija' },
+                    { text: 'Revision Commision', link: '/en/vu-sa/revizijos-komisija' },
+                    { text: 'Data Security Group', link: '/en/vu-sa/dag' },
                 ]
             },
             {
@@ -62,12 +65,11 @@ export default {
                     },
                     {
                         text: 'Sustainable university community',
-                        link: '/en/darni-bendruomene/darni-bendruomene',
                         collapsed: true,
                         items: [
                             { text: 'Community events', link: '/en/darni-bendruomene/renginiai' },
                             { text: 'Integration of students', link: '/en/darni-bendruomene/integracija' },
-                            { text: 'Programs, Clubs and Projects', link: '/en/darni-bendruomene/pkp' },
+                            { text: 'Student initiatives', link: '/en/darni-bendruomene/iniciatyvos' },
                         ]
                     },
                 ]

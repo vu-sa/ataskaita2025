@@ -38,7 +38,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             { text: 'Sveikinimai', link: '/sveikinimai' },
             { text: 'Strategija', link: '/strategija' },
             {
-                text: 'VU SA struktūros',
+                text: 'VU SA struktūros ⭐️',
                 items: [
                     { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
                     { text: 'Taryba', link: '/vu-sa/taryba' },

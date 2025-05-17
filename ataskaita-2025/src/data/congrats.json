@@ -52,5 +52,59 @@
       "anchor": "#arqus-studentu-ciu-taryba",
       "quotePreview": "Dėkojame, kad dalijatės savo idėjomis ir požiūriais, kaip jūs ir jūsų studentų (-čių) atstovybė kuriate sisteminius pokyčius savo universitete ir šalyje."
     }
+  ],
+  "en": [
+    {
+      "img": "/img/congrats/smsm.png",
+      "name": "Raminta Popovienė",
+      "position": "Minister of Education, Science and Sport",
+      "anchor": "#svietimo-mokslo-ir-sporto-ministerija",
+      "quotePreview": "I especially appreciate your ability to unite student voices, clarify the most relevant needs, and actively engage in a dialogue that leads to real changes. This is a sign of responsibility, maturity, and leadership.",
+      "objectPosition": "45% 30%"
+    },
+    {
+      "img": "/img/congrats/smk.jpeg",
+      "name": "Vaida Aleknavičienė",
+      "position": "Chairwoman of the Seimas Committee on Education and Science",
+      "anchor": "#vilniaus-universiteto-taryba",
+      "quotePreview": "I especially appreciate that the Student Representation does not limit itself to formal representation – you consistently care about the quality of studies, defend students' rights, strengthen the community, create meaningful initiatives, and nurture academic values. Thanks to you, the ideas of interdisciplinarity, inclusion, responsibility, and citizenship flourish."
+    },
+    {
+      "img": "/img/congrats/jurgilas-taryba.jpg",
+      "name": "dr. Marius Jurgilas",
+      "position": "Chairman of the VU Council",
+      "anchor": "#vilniaus-universiteto-taryba",
+      "quotePreview": "Your ability to constructively represent student interests at all levels - from study quality to higher education policy - is an important part of the strength of the University community."
+    },
+    {
+      "img": "/img/congrats/biblioteka-kriv.jpg",
+      "name": "Irena Krivienė",
+      "position": "Director of VU Library",
+      "anchor": "#vilniaus-universiteto-biblioteka",
+      "quotePreview": "Your enthusiasm and active involvement, critical thinking and goodwill support are invaluable contributions that help us grow, improve and create an environment where it is good to learn and be.",
+      "objectPosition": "50% 20%"
+    },
+    {
+      "img": "/img/congrats/aekpk.jpg",
+      "name": "dr. Reda Cimmperman",
+      "position": "Ombudsperson for Academic Ethics and Procedures",
+      "anchor": "#akademines-etikos-ir-proceduru-kontroliere",
+      "quotePreview": "We are grateful for the meaningful partnership and are pleased to continue joint activities that contribute to a stronger student voice in academic ethics.",
+      "objectPosition": "60% 40%"
+    },
+    {
+      "img": "/img/congrats/skvc.jpg",
+      "name": "Zinaida Manžuch",
+      "position": "SKVC Director's Representative",
+      "anchor": "#studiju-kokybes-vertinimo-centras",
+      "quotePreview": "We sincerely appreciate your dedication, new ideas, and active involvement in creating a higher education system that meets student needs. Your voice is important - and it makes a difference."
+    },
+    {
+      "img": "/img/congrats/arqus.png",
+      "name": "Arqus Student Council",
+      "position": "Arqus Student Council",
+      "anchor": "#arqus-studentu-ciu-taryba",
+      "quotePreview": "Thank you for sharing your ideas and perspectives on how you and your student representation create systemic changes at your university and in your country."
+    }
   ]
 }

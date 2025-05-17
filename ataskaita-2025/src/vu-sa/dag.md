@@ -1,5 +1,5 @@
 <script setup>
-import PersonAvatar from '../../components/PersonAvatar.vue'
+import PersonAvatar from '@/PersonAvatar.vue'
 import TeamAvatarLayout from "@/TeamAvatarLayout.vue";
 import { getPersonsByColumn } from "@/lib/personUtils";
 

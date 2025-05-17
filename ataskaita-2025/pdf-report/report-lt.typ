@@ -1194,6 +1194,11 @@ dsaf
   ratio: (1, 3)
 )
 
+#pagebreak()
+
+#cmarker.render(read_file_lines("./src/darni-bendruomene/integracija.md"), h1-level: 2)
+
+#cmarker.render(read_file_lines("./src/darni-bendruomene/renginiai.md"), h1-level: 2)
 
 // --- Organizacijos nariai ---
 #section-page(

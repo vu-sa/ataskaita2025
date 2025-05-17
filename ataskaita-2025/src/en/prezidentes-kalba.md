@@ -1,3 +1,8 @@
+# President's Speech
+
+![Klėja Merčaitytė](../public/img/people/kleja-mercaityte.jpg)
+
+<!-- SECTION:presidents-letter:START -->
 Dear students, members of the Organization and Vilnius University Community 
 
 35th year of the Students’ Representation has been full of change. The main directions and efforts of this year were focused on individual studies, the creation and strengthening of student initiatives, the inclusion of students with disabilities, and resilience against external threats. 
@@ -12,5 +17,7 @@ We will enter the upcoming academic year with newly approved strategic projects 
 
 I invite you to explore all the work done throughout the year in the VU SR 2024–2025 report. Sincere thanks to you for this year—let’s continue working “United for the future of students!” 
 
+**Klėja Merčaitytė** 
+
 VU SR President 
- Klėja Merčaitytė 
+<!-- SECTION:presidents-letter:END --> 

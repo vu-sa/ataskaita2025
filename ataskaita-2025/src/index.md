@@ -33,14 +33,14 @@ import people from "./data/dariniai.csv"
 
 // Import components
 import VPButton from "vitepress/dist/client/theme-default/components/VPButton.vue";
-import NumberStatistic from "../components/NumberStatistic.vue";
-import PersonAvatar from "../components/PersonAvatar.vue";
-import MultiPersonAvatar from "../components/MultiPersonAvatar.vue";
-import EnhancedNumberStatistic from "../components/EnhancedNumberStatistic.vue";
-import ImageMosaic from "../components/ImageMosaic.vue";
-import InteractiveTimeline from "../components/InteractiveTimeline.vue";
-import AchievementSection from "../components/AchievementSection.vue";
-import TestimonialCarousel from "../components/TestimonialCarousel.vue";
+import NumberStatistic from "@/NumberStatistic.vue";
+import PersonAvatar from "@/PersonAvatar.vue";
+import MultiPersonAvatar from "@/MultiPersonAvatar.vue";
+import EnhancedNumberStatistic from "@/EnhancedNumberStatistic.vue";
+import ImageMosaic from "@/ImageMosaic.vue";
+import InteractiveTimeline from "@/InteractiveTimeline.vue";
+import AchievementSection from "@/AchievementSection.vue";
+import TestimonialCarousel from "@/TestimonialCarousel.vue";
 
 // Import icons
 import { 
@@ -73,7 +73,7 @@ const primaryColor = '#fbad13';
 const accentColor = '#b5333e';
 
 // Import person utility functions
-import { getPersonByName, getPersonsByDepartment } from '../components/lib/personUtils';
+import { getPersonByName, getPersonsByDepartment } from '@/lib/personUtils';
 
 // Prepare team data for MultiPersonAvatar
 const centralOfficeTeam = computed(() => {
@@ -84,7 +84,7 @@ import {
   Carousel,
   CarouselContent,
   CarouselItem,
-} from "../components/ui/carousel";
+} from "@/ui/carousel";
 
 // Timeline events data
 const timelineEvents = timelineData.lt;
@@ -164,7 +164,7 @@ const logoSrc = computed(() => {
 <section class="lg:px-2 px-1.5 isolate my-20">
   <div class="max-w-6xl mx-auto">
     <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">Sveikinimai</h2>
-    <TestimonialCarousel :testimonials="congrats.lt" link="/sveikinimai" />
+    <TestimonialCarousel :testimonials="congrats.lt" link="/sveikinimai" button-text="Sveikinimo kalba" />
   </div>
 </section>
 
@@ -184,7 +184,7 @@ const logoSrc = computed(() => {
                   theme="brand"
                 />
                 <VPButton 
-                  href="https://vusa.lt/kontaktai" 
+                  href="https://vusa.lt/lt/kontaktai/centrinis-biuras" 
                   text="Susisiek"
                   theme="alt"
                 />

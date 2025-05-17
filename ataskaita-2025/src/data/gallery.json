@@ -110,5 +110,117 @@
       "name": "VU SA pavasario mokymai",
       "src": "/img/gallery/VU SA 24-25-25.jpg"
     }
+  ],
+  "en": [
+    {
+      "name": "Finnis Anni Academici",
+      "src": "/img/gallery/VU SA 24-25-01.jpg",
+      "featured": true,
+      "objectPosition": "10% 30%"
+    },
+    {
+      "name": "VU Community march",
+      "src": "/img/gallery/VU SA 24-25-02.jpg",
+      "objectPosition": "top center"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-04.jpg"
+    },
+    {
+      "name": "Opening of the academic year",
+      "src": "/img/gallery/VU SA 24-25-03.jpg",
+      "objectPosition": "50% 30%"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-05.jpg"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-06.jpg",
+      "objectPosition": "38% 30%"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-07.jpg"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-08.jpg"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-09.jpg",
+      "featured": true
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-10.jpg"
+    },
+    {
+      "name": "Integration festival „Ad astra“",
+      "src": "/img/gallery/VU SA 24-25-11.jpg"
+    },
+    {
+      "name": "VU SA Parliament meeting",
+      "src": "/img/gallery/VU SA 24-25-12.jpg"
+    },
+    {
+      "name": "(PhD) supervisors training",
+      "src": "/img/gallery/VU SA 24-25-13.jpg"
+    },
+    {
+      "name": "(PhD) supervisors training",
+      "src": "/img/gallery/VU SA 24-25-14.jpg"
+    },
+    {
+      "name": "VU SA 35th birthday party",
+      "src": "/img/gallery/VU SA 24-25-15.jpg"
+    },
+    {
+      "name": "VU SA 35th birthday party",
+      "src": "/img/gallery/VU SA 24-25-17.jpg",
+      "objectPosition": "70% 30%"
+    },
+    {
+      "name": "VU SA 35th birthday party",
+      "src": "/img/gallery/VU SA 24-25-16.jpg",
+      "objectPosition": "70% 30%"
+    },
+    {
+      "name": "VU SA 35th birthday party",
+      "src": "/img/gallery/VU SA 24-25-18.jpg"
+    },
+    {
+      "name": "Discussion with the candidate for VU rector",
+      "src": "/img/gallery/VU SA 24-25-19.jpg"
+    },
+    {
+      "name": "VU SA Winter planning",
+      "src": "/img/gallery/VU SA 24-25-20.jpg",
+      "objectPosition":"55% 30%"
+    },
+    {
+      "name": "Inauguration of the VU Rector",
+      "src": "/img/gallery/VU SA 24-25-21.jpg",
+      "objectPosition": "40% 30%"
+    },
+    {
+      "name": "VU SA spring training",
+      "src": "/img/gallery/VU SA 24-25-22.jpg"
+    },
+    {
+      "name": "VU SA spring training",
+      "src": "/img/gallery/VU SA 24-25-23.jpg"
+    },
+    {
+      "name": "VU SA spring training",
+      "src": "/img/gallery/VU SA 24-25-24.jpg"
+    },
+    {
+      "name": "VU SA spring training",
+      "src": "/img/gallery/VU SA 24-25-25.jpg"
+    }
   ]
 }
